@@ -1,0 +1,17 @@
+{
+  "name": "merchant",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.9.4",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "request": "^2.88.2"
+  }
+}
