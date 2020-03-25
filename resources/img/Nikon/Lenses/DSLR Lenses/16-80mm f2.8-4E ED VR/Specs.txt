@@ -1,0 +1,33 @@
+Mount TypeNikon F-Bayonet
+Focal Length Range16 - 80mm
+Zoom Ratio5x
+Maximum Aperturef/ 2.8-4
+Minimum Aperturef/ 22-32
+FormatDX
+Maximum Angle of View (DX-format)83°
+Minimum Angle of View (DX-format)20°
+Maximum Reproduction Ratio0.22x
+Lens Elements17
+Lens Groups13
+Compatible Format(s)DX
+VR (Vibration Reduction) Image StabilizationYes
+Diaphragm Blades7
+Distance InformationYes
+Nano Crystal CoatYes
+ED Glass Elements4
+Fluorine CoatYes
+Aspherical Elements3
+Super Integrated CoatingYes
+AutofocusYes
+AF-S (Silent Wave Motor)Yes
+Internal FocusingYes
+Minimum Focus Distance1.15 ft. ( 0.35m)
+Focus ModeAuto
+Manual
+E-typeYes
+Filter Size72mm
+Accepts Filter TypeScrew-on
+Approx. Dimensions (Diameter x Length)3.1 in. (80 mm) x 3.3 in. (85.5 mm)
+Based on CIPA Standard
+Approx. Weight16.1 oz. (480 g)
+Based on CIPA Standard

@@ -1,0 +1,291 @@
+Collapse Type
+TypeDigital camera with support for interchangeable lenses
+Lens MountNikon Z mount
+Collapse Image Sensor
+Effective Pixels (Megapixels)20.9 million
+Sensor Size23.5 mm  x  15.7 mm
+Image Sensor FormatDX
+Image Sensor TypeCMOS
+Total Pixels21.51 million
+Dust-Reduction SystemImage Dust Off reference data (requires Capture NX-D)
+Dust-Off Reference PhotoYes
+Image Area (pixels)DX-format
+(L) 5,568 x 3,712
+(M) 4,176 x 2,784
+(S) 2,784 x 1,856
+1:1 (16 x 16)
+(L) 3,712 x 3,712
+(M) 2,784 x 2,784
+(S) 1,856 x 1,856
+16:9 (24 x 24)
+(L) 5,568 x 3,128
+(M) 4,176 x 2,344
+(S) 2,784 x 1,560
+Photographs taken during movie recording at a frame size of 3,840 x 2,160:
+3,840 x 2,160 Photographs taken during movie recording at other frame sizes: 1,920 x 1,080:
+1,920 x 1,080
+Collapse File System
+File Format Still ImagesNEF (RAW): 12 or 14 bit
+JPEG: JPEG-Baseline compliant with fine (approx. 1 : 4), normal (approx. 1 : 8), or basic (approx. 1 : 16) compression
+NEF (RAW) + JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats
+Storage MediaSD (Secure Digital) and UHS-I compliant SDHC and SDXC memory cards
+Card Slot1 slot
+File SystemDCF 2.0
+Exif 2.31
+PictBridge
+Collapse Viewfinder
+Viewfinder0.39-in. approx. 2360k-dot (XGA) OLED electronic viewfinder with color balance and auto and 7-level manual brightness controls
+Viewfinder Frame CoverageApprox. 100% horizontal
+100% vertical
+Viewfinder MagnificationApprox. 1.02x (50 mm lens at infinity, −1.0 m−1)
+Viewfinder Eyepoint20 mm (-1.0 m-1; from center surface of viewfinder eyepiece lens)
+Viewfinder Diopter Adjustment-3 to +3 m−1
+Eye SensorAutomatically switches between monitor and viewfinder displays
+Collapse Lens
+Depth-of-Field ControlYes
+Lens Compatibility at a Glance***Z mount NIKKOR lenses
+F mount NIKKOR lenses with mount adapter; restrictions may apply
+Compatible LensesZ mount NIKKOR lenses
+F mount NIKKOR lenses with mount adapter; restrictions may apply
+Collapse Shutter
+Shutter TypeElectronically-controlled vertical-travel focal-plane mechanical shutter; electronic front-curtain shutter; electronic shutter
+Shutter Speed1/4000 to 30 sec. in steps of 1/3 or 1/2 EV, bulb, time
+Fastest Shutter Speed1/4000 sec.
+Slowest Shutter Speed30 sec.
+Flash Sync SpeedUp to:  X=1/200 sec.; synchronizes with shutter at 1/200 sec. or slower; Auto FP High-Speed sync supported
+Bulb Shutter SettingYes
+Shutter Release ModesSingle frame
+Low-speed continuous
+High-speed continuous (extended)
+Self-timer
+Frame Advance RateLow-speed continuous: 1-4 fps
+High-speed continuous (extended): 5 fps
+High-speed continuous (extended): 11 fps
+Continuous Shooting OptionsLow-speed continuous: 1-4 fps
+High-speed continuous (extended): 5 fps
+High-speed continuous (extended): 11 fps
+Top Continuous Shooting Speed at Full Resolution11 frames per second
+Self-Timer2, 5, 10, 20 sec.; 1-9 exposures at intervals of 0.5, 1, 2, or 3 sec.
+Timer duration electronically controlled
+Collapse Exposure
+Exposure Metering SystemTTL metering using camera image sensor
+Metering MethodMatrix metering
+Center-weighted metering: Weight of 75% given to 8 mm circle in center of frame; weighting can instead be based on average of entire frame
+Spot metering: Meters 3.5 mm circle (about 2.5% of frame) centered on selected focus point
+Highlight-weighted metering
+Metering RangeHighlight-weighted metering: -4 to +17 EV
+(ISO 100, f/2.0 lens, 20 °C/68 °F)
+Exposure Meter CouplingCPU
+Exposure ModesAuto
+Programmed auto with flexible program (P)
+Shutter-priority auto (S)
+Aperture-priority auto (A)
+Manual (M)
+User settings (U1, U2, U3)
+Scene ModesAutumn Colors
+Beach / Snow
+Blossom
+Candlelight
+Child
+Close-up
+Dusk/Dawn
+Food
+Landscape
+Night Landscape
+Night Portrait
+Party/Indoor
+Pet Portrait
+Portrait
+Sports
+Sunset
+Special Effect Modes: night vision; super vivid; pop; photo illustration; toy camera effect; miniature effect; selective color; silhouette; high key; low key
+Exposure Compensation-5 to +5 EV in increments of 1/3 or 1/2 EV available in modes P, S, A, M, SCENE and EFFECT modes
+Exposure Bracketing2 to 9 frames in steps of 1/3, 1/2, 2/3, or 1 EV
+Exposure LockLuminosity locked at detected value
+Picture ControlAuto
+Flat
+Landscape
+Monochrome
+Neutral
+Portrait
+Standard
+Vivid
+Creative Picture Controls: (Dream, Morning, Pop, Sunday, Somber, Dramatic, Silence, Bleached, Melancholic, Pure, Denim, Toy, Sepia, Blue, Red, Pink, Charcoal, Graphite, Binary, Carbon)
+Selected Picture Control can be modified
+Storage for custom Picture Controls
+Collapse Sensitivity
+ISO SensitivityISO 100 - 51,200 in steps of 1/3 or 1/2 EV
+Can also be set to approx. 1 or 2 EV (ISO 204,800 equivalent) above ISO 51,200; auto ISO sensitivity control available
+Lowest Standard ISO Sensitivity100
+Highest Standard ISO Sensitivity51,200
+Lowest Expanded ISO Sensitivity100
+Highest Expanded ISO Sensitivity204,800
+High ISO Noise ReductionYes
+Active D-LightingCan be selected from: 
+Auto
+Extra High
+High
+Normal
+Low
+Off
+Collapse Focus/Autofocus
+Single-Point AF ModeYes
+Dynamic AF ModeYes
+Auto-Area AF ModeYes
+Autofocus SystemHybrid phase-detection/contrast AF with AF assist
+Detection Range-2 to +19 EV (-4 to +19 EV with low-light AF)
+Detection range (ISO 100, f/2.0 lens, 20 °C/68 °F)
+Lens ServoAutofocus (AF): Single-servo AF (AF-S); continuous-servo AF (AF-C); AF mode auto-switch (AF-A; available only in photo mode); full-time AF (AF-F; available only in movie mode); predictive focus tracking
+Manual focus (M): Electronic rangefinder can be used
+Focus Point209 (single-point AF)
+AF-Area ModePinpoint
+Single-Point
+Dynamic-area AF
+Wide-area AF (S)
+Wide-area AF (L)
+Auto-area AF
+Pinpoint and Dynamic-area AF available in photo mode only
+Focus LockYes
+Focus ModesPinpoint
+Single-point
+Dynamic-area AF
+Wide-area AF (S)
+Wide-area AF (L)
+Auto-area AF
+Pinpoint and Dynamic-area AF available in photo mode only
+Maximum Autofocus Areas/Points209
+Vibration ReductionLens shift using voice coil motors (VCMs)
+Autofocus Fine TuneYes
+Collapse Flash
+Built-in FlashManual pop-up flash raised via flash pop-up control Guide Number: Approx. 7/22, 7/22 with manual flash (m/ft, ISO 100, 20 °C/68 °F)
+X-Sync Speed1/200 sec.
+synchronizes with shutter at 1/200 s or slower; Auto FP High-Speed sync supported
+Top FP High Speed SyncUp to: 1/4000 sec.
+Flash ControlTTL: i-TTL flash control; i-TTL balanced fill-flash is used with matrix, center-weighted, and highlight-weighted metering, standard i-TTL fill-flash with spot metering
+Flash Sync ModesFill flash
+Rear-curtain sync
+Red-eye reduction
+Red-eye reduction with slow sync
+Slow sync
+Auto
+Auto with red-eye reduction
+Auto slow sync
+Auto slow sync with red-eye reduction
+Flash off
+Flash Compensation-3 to +1 EV in increments of 1/3 or 1/2 EV available in P, S, A, M, and SCN modes
+Flash-ready IndicatorLights when built-in flash or optional flash unit is fully charged; flashes as underexposure warning after flash is fired at full output
+Accessory ShoeISO 518 hot-shoe with sync and data contacts and safety lock
+Nikon Creative Lighting System (CLS)i-TTL flash control, optical Advanced Wireless Lighting, FV lock, Color Information Communication, Auto FP High-Speed Sync
+Collapse White Balance
+White Balance BracketingYes
+Collapse Live View
+Live View ShootingPhotography Live View Mode
+Movie Live View Mode
+Collapse Movie
+Movie MeteringTTL exposure metering using main image sensor
+Movie Maximum Recording Time29 minutes 59 seconds
+Movie File FormatMOV
+MP4
+Movie Video CompressionH.264/MPEG-4 Advanced Video Coding
+Movie Audio Recording FormatLinear PCM
+AAC
+Movie4K UHD 3,840x2,160 / 30 fps
+4K UHD 3,840x2,160 / 25 fps
+4K UHD 3,840x2,160 / 24 fps
+Full HD 1,920x1,080 / 120 fps
+Full HD 1,920x1,080 / 100 fps
+Full HD 1,920x1,080 / 60 fps
+Full HD 1,920x1,080 / 50 fps
+Full HD 1,920x1,080 / 30 fps
+Full HD 1,920x1,080 / 25 fps
+Full HD 1,920x1,080 / 24 fps
+Full HD 1,920x1,080 slow-mo / 30 fps x4
+Full HD 1,920x1,080 slow-mo / 25 fps x4
+Full HD 1,920x1,080 slow-mo / 24 fps x5
+Actual frame rates for 120p, 100p, 60p, 50p, 30p, 25p, and 24p are 119.88, 100, 59.94, 50, 29.97, 25, and 23.976 fps respectively
+Quality selection available except at sizes of 3,840 x 2,160, 1,920 x 1,080 120p/100p, and 1,920 x 1,080 slow-motion or when U or 6 is selected in q mode, in which case quality is fixed at m (high)
+Movie AudioBuilt-in stereo or external microphone with attenuator option; sensitivity can be adjusted
+Movie ISOM: Manual selection (ISO 100 to 25,600 in steps of 1/3 or 1/2 EV); auto ISO sensitivity control (ISO 100 to 25,600) available with selectable upper limit
+P, S, A: Auto ISO sensitivity control (ISO 100 to 25,600) with selectable upper limit AUTO, SCN, EFCT (excluding Night Portrait): Auto ISO sensitivity control (ISO 100 to 25,600)
+Night Portrait: Auto ISO sensitivity control (ISO 100 to Hi 4)
+Movie Active D-LightingCan be selected from:
+Extra High
+High
+Normal
+Low
+Off
+Movie e-VRYes
+electronic vibration reduction
+Movie HDMI OutputYes
+Movie Focus PeakingYes
+Movie Highlight Display (Zebras)Yes
+Time-Lapse MovieYes
+AF for MovieYes
+Collapse Monitor
+Monitor Size3.2 in. diagonal
+Monitor Resolution1,040,000 dots
+Monitor TypeTilting TFT
+Touch-Sensitive LCD
+Monitor Angle of View170° viewing angle
+approximately 100% frame coverage
+Monitor Adjustments11-level manual brightness controls
+Virtual Horizon Camera IndicatorYes
+Collapse Playback
+Playback FunctionsAuto Image Rotation
+Cropping
+Full-frame and Thumbnail (4, 9, or 72 images)
+Highlights
+Histogram Display
+Location Data Display
+Movie Playback
+Photo and/or Movie Slide Shows
+Photo Information
+Picture Rating
+Playback with Playback Zoom
+Playback Zoom
+Slide Shows
+In-Camera Image EditingDistortion Control
+D-Lighting
+Image Overlay
+NEF (RAW) Processing
+Perspective Control
+Quick Retouch
+Red-eye Correction
+Resize
+Side-by-Side Comparison
+Straighten
+Trim
+Trim Movie
+Image CommentYes
+Collapse Interface
+InterfaceHi-Speed USB with Micro-B connector; connection to built-in USB port is recommended; Type D HDMI connector; Stereo mini-pin jack (3.5 mm diameter; plug-in power supported)
+Wi-Fi FunctionalityStandards: IEEE 802.11b/g/n/a/ac
+Operating frequency: 2412–2472 MHz (channel 13) and 5180–5700 MHz
+Maximum output power (EIRP): 2.4 GHz band: 7.0 dBm 5 GHz band: 12.1 dBm
+Authentication: Open system, WPA2-PSK
+Smart Device App ConnectivitySnapBridge
+BluetoothYes
+Collapse Menus
+Total Custom Settings42
+My MenuYes
+Recent SettingsYes
+Supported LanguagesEnglish
+French
+Portuguese (Brazil)
+Spanish
+The languages available vary with the country or region in which the camera was originally purchased.
+Date, Time and Daylight Savings Time SettingsYes
+World Time SettingYes
+Collapse Power
+Battery / BatteriesOne EN-EL25 rechargeable Li-ion battery
+Battery Life (shots per charge)300 shots (CIPA)
+Movies:  Approx. 75 min. of movie recording
+AC AdapterEH-73P charging AC Adapter
+Battery ChargerMH-32 Battery Charger
+Collapse Miscellaneous
+Tripod Socket1/4 in. (ISO 1222)
+Approx. Dimensions (Width x Height x Depth)5.0 in. (126.5 mm)  x  3.7 in. (93.5 mm)  x  2.4 in. (60 mm)
+Approx. Weight14.0 oz. (395 g)
+camera body only
+Operating EnvironmentTemperature: 32 to 104°F (0 to 40°C)
+Humidity: Less than 85% (no condensation)

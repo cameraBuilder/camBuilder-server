@@ -1,0 +1,164 @@
+Year announced	2017	Edit
+General
+Lens Mounts	
+Canon EF-S
+Canon EF
+Edit
+Lens
+Effective Magnification 	1.6x	Edit
+Image Sensor
+Pixels 	24.2Mp (Megapixels)	Edit
+Pixels (W)	6000	Edit
+Pixels (H)	4000	Edit
+Sensor Type	CMOS	Edit
+Sensor Size 	APS-C	Edit
+Sensor Size (width)	22.3mm	Edit
+Sensor Size (height)	14.9mm	Edit
+Aspect Ratio 	
+3:2
+4:3
+16:9
+1:1
+Edit
+Pixel pitch 	No Data	Edit
+LCD Monitor
+LCD Monitor 	3in	Edit
+Brightness adjust	Yes	Edit
+Tilting screen	Yes	Edit
+Live view	Yes	Edit
+Screen resolution 	1040k	Edit
+Touch Screen 	Yes	Edit
+Focusing
+Focusing modes 	
+Autofocus
+Manual
+Spot
+Face Detection
+Multi
+Centre
+Touch AF
+Edit
+Focusing Points 	No Data	Edit
+Auto Focus Sensitivity 	No Data	Edit
+Construction
+Weather-sealed 	No Data	Edit
+Exposure Control
+Shutter speeds shortest 	1/4000sec	Edit
+Shutter speeds longest 	30sec	Edit
+Bulb mode 	Yes	Edit
+Self Timer 	Yes	Edit
+Exp modes 	
+Program
+Aperture-Priority
+Shutter-Priority
+Manual
+Scene modes
+Program Variable
+Edit
+AE lock 	No Data	Edit
+Metering	
+Centre-weighted - Average
+Multi Pattern
+Partial
+Spot
+Edit
+ISO sensitivity 	100 - 51200	Edit
+White balance 	
+Auto
+Manual
+Bracket
+Outdoors/Daylight
+Cloudy
+Incandescent
+Fluorescent
+Shade
+Flash
+Edit
+Digital filter	Yes	Edit
+Exposure Comp 	+/-5	Edit
+Auto Exposure Bracketing 	Yes	Edit
+Viewfinder
+Viewfinder field of view	No Data	Edit
+Depth of field preview 	No Data	Edit
+Interchangable focusing screen 	No Data	Edit
+Viewfinder Resolution 	No Data	Edit
+Magnification 	No Data	Edit
+Shooting Options
+Continuous shooting 	6fps	Edit
+Multiple exposure 	No Data	Edit
+Sound recording 	Yes	Edit
+Video
+Movie mode 	Yes	Edit
+Video Resolution 	
+1920x1080 FullHD
+Edit
+Video FPS 	30, 25, 24fps	Edit
+Stereo Sound 	Yes	Edit
+Optical Zoom with Video 	Yes	Edit
+Flash
+Flash Guide Number (ISO100/m)	No Data	Edit
+Flash sync speed 	No Data	Edit
+Flash modes 	
+Edit
+Flash sync socket 	
+Hot shoe
+Edit
+Flash compensation	No Data	Edit
+Flash Range 	No Data	Edit
+Shooting Performance
+Shutter response 	No Data	Edit
+Focus speed - Wide 	No Data	Edit
+Focus speed - Telephoto 	No Data	Edit
+Switch on time to first photo 	No Data	Edit
+Shot to shot speed 	No Data	Edit
+Shot to shot speed - flash 	No Data	Edit
+Continuous shooting - JPEG 	No Data	Edit
+Continuous shooting - Flash 	No Data	Edit
+Continuous shooting - RAW 	No Data	Edit
+Other Features
+Number of Custom Functions	No Data	Edit
+Dust removal	Yes	Edit
+Image Stabilisation	No	Edit
+Histogram 	No Data	Edit
+Thumbnail / Index view 	No Data	Edit
+Video out 	No Data	Edit
+Slide show mode 	No Data	Edit
+Zoom playback 	No Data	Edit
+GPS enabled 	No	Edit
+Interface
+HDMI	Yes	Edit
+USB 	USB 2	Edit
+Firewire	No	Edit
+Platform	
+PC
+MAC
+Edit
+Wi-Fi	Yes	Edit
+Ethernet 	No	Edit
+NFC 	Yes	Edit
+Bluetooth 	No	Edit
+Microphone Socket 	Yes	Edit
+Headphone Socket 	No	Edit
+Storage
+Card Type 	
+SD
+SDHC
+SDXC
+Edit
+File Type 	
+RAW
+JPG
+RAW + JPG
+Edit
+Internal Memory	No Data	Edit
+Power Source
+Battery Type 	Rechargeable Li-ion Battery LP-E17	Edit
+Battery Life (CIPA rating) 	600shots	Edit
+Movie recording time 	No Data	Edit
+Box Contents
+Box Contents 	No Data	Edit
+Dimensions
+Weight	540g	Edit
+Width	131mm	Edit
+Height	99.9mm	Edit
+Depth	76.2mm

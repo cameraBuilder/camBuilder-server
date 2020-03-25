@@ -1,0 +1,325 @@
+Collapse Type
+TypeSingle-lens reflex digital camera
+Lens MountNikon F bayonet mount
+Collapse Image Sensor
+Effective Pixels (Megapixels)24.3 million
+Sensor Size35.9 mm x 24 mm
+Image Sensor FormatFX
+Image Sensor TypeCMOS
+Total Pixels24.93 million
+Dust-Reduction SystemImage sensor cleaning
+Image Dust Off reference data (optional Capture NX-D software required)
+Dust-Off Reference PhotoYes
+Image Area (pixels)FX-format
+(L) 6,016 x 4,016
+(M) 4,512 x 3,008
+(S) 3,008 x 2,008
+DX-format
+(L) 3,936 x 2,624
+(M) 2,944 x 1,968
+(S) 1,968 x 1,312
+1:2 format (30 x 20)
+(L) 5,008 x 3,336
+(M) 3,752 x 2,504
+(S) 2,504 x 1,664
+Collapse File System
+File Format Still ImagesJPEG: JPEG-Baseline compliant with fine (approx 1:4), normal (approx 1:8), or basic (approx 1:16) compression (size priority); Optimal quality compression available
+NEF (RAW) + JPEG: single photograph recorded in both NEF (RAW) and JPEG Formats
+NEF (RAW): lossless compressed, compressed 12 or 14 bit
+Storage MediaSD
+SDHC
+SDXC
+Card Slot2 Secure Digital (SD)
+File SystemCompliant with DCF (Design Rule for Camera File System) 2.0
+DPOF (Digital Print Order Format)
+EXIF 2.3 (Exchangeable Image File Format for Digital Still Cameras)
+PictBridge
+Collapse Viewfinder
+ViewfinderEye-level Pentaprism Single-Lens Reflex Viewfinder
+Viewfinder Frame CoverageFX (36x24): 100% horizontal and 100% vertical (Approx.)
+1.2x (30x20): 97% horizontal and 97% vertical (Approx.)
+DX (24x16): 97% horizontal and 97% vertical (Approx.)
+Viewfinder Magnification0.7x (50 mm f/1.4 lens at infinity, –1.0m–1) (Approx.) 
+Viewfinder Eyepoint21mm (-1.0 m¯¹)
+Viewfinder Diopter AdjustmentBuilt-in diopter adjustment (-3 to + 1 m¯¹)
+Focusing ScreenType B BriteView Clear Matte Mark III screen with AF area brackets (framing grid can be displayed)
+Reflex MirrorQuick-return type
+Mirror Lock UpYes
+Collapse Lens
+Lens ApertureInstant-return type
+Depth-of-Field ControlYes
+Lens Compatibility at a Glance***AF-S or AF lenses fully compatible
+Metering with AI lenses
+Compatible LensesAF NIKKOR lenses, including type G, E, and D lenses (some restrictions apply AF NIKKOR lenses, including type G and D lenses (some restrictions apply to PC lenses) and DX lenses (using DX 24 x 16 1.5x image area), AI-P NIKKOR lenses, and non-CPU AI lenses (A and M modes only). to PC lenses) and DX lenses (using DX 24 x 16 1.5x image area), AI-P NIKKOR lenses, and non-CPU AI lenses (A and M modes only).
+Electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster (the electronic rangefinder supports the 11 focus points with lenses that have a maximum aperture of f/8 or faster).
+IX NIKKOR lenses, lenses for the F3AF, and non-AI lenses cannot be used.
+Collapse Shutter
+Shutter TypeElectronically controlled vertical-travel focal-plane
+Shutter Speed1/4000 to 30 sec.
+Bulb
+Fastest Shutter Speed1/4000 sec.
+Slowest Shutter Speed30 sec.
+Flash Sync SpeedUp to 1/200 sec.
+Synchronizes with shutter at 1/250 sec. or slower (flash range drops at speeds between 1/200 and 1/250 sec.)
+Bulb Shutter SettingYes
+Shutter Release ModesContinuous low-speed [CL] mode
+Continuous high-speed [CH] mode
+Mirror-up [Mup] mode
+Quiet Shutter Release
+Quiet Continuous Release
+Self-timer mode
+Single-frame [S] mode
+Continuous Shooting OptionsFX-format
+CH: Up to 6.5 frames per second
+CL: Up to 1-6 frames per second
+DX-format
+CH: Up to  6.5 frames per second
+CL: Up to  1-6 frames per second
+Top Continuous Shooting Speed at Full Resolution6.5 frames per second
+Self-Timer2, 5, 10, 20 sec.; 1 to 9 exposures at intervals of 0.5, 1, 2, or 3 sec.
+Timer duration electronically controlled
+Collapse Exposure
+Exposure Metering SystemTTL exposure metering using 91,000-pixel RGB sensor
+Metering MethodCenter-weighted: Weight of 75% given to 12 mm circle in center of frame. Diameter of circle can be changed to 8, 15, or 20 mm, or weighting can be based on average of entire frame (non-CPU lenses use 12-mm circle)
+Matrix: 3D Color Matrix Metering II (type G, E, and D lenses); Color Matrix Metering II (other CPU lenses); Color Matrix Metering available with non-CPU lenses if user provides lens data
+Spot: Meters 4 mm circle (about 1.5% of frame) centered on selected focus point (on center focus point when non-CPU lens is used)
+Highlight-weighted: Available with type G, E, and D lenses; equivalent to center-weighted when non-CPU lens is used
+Metering Range0 to 20 EV (3D Color Matrix, center-weighted metering or highlight weighted metering)
+2 to 20 EV (spot metering)
+Exposure Meter CouplingCPU
+AI
+Exposure ModesAperture-Priority (A)
+Manual (M)
+Programmed auto with flexible program (P)
+Shutter-Priority (S)
+Exposure Compensation±5 EV in increments of 1/3 or 1/2 in P, S, A, and M modes
+Exposure Bracketing2 to 5 frames in steps of 2 or 3 EV
+2 to 9 frames in steps of 1/3, 1/2, 2/3 or 1 EV
+Exposure LockYes
+Picture ControlFlat
+Landscape
+Monochrome
+Neutral
+Portrait
+Standard
+Vivid
+User-customizable Settings
+Collapse Sensitivity
+ISO SensitivityISO 100 - 12,800
+Lo-1 (ISO 50)
+Hi-1 (ISO 25,600)
+Hi-2 (ISO 51,200)
+Lowest Standard ISO Sensitivity100
+Highest Standard ISO Sensitivity12,800
+Lowest Expanded ISO SensitivityLo-1 (ISO 50 equivalent)
+Highest Expanded ISO SensitivityHi-2 (ISO 51,200 equivalent)
+Expanded ISO Sensitivity OptionsLo-1 (ISO 50 equivalent)
+Hi-1 (ISO 25,600 equivalent)
+Hi-2, (ISO 51,200 equivalent)
+Long Exposure Noise ReductionYes
+High ISO Noise ReductionLow
+Normal
+High
+Off
+Active D-LightingCan be selected from:
+Auto
+Extra High
+High
+Normal
+Low
+Off
+D-Lighting Bracketing2 frames using selected value for one frame
+3–5 frames using preset values for all frames
+Collapse Focus/Autofocus
+Single-Point AF ModeYes
+Dynamic AF ModeNumber of AF points: 9, 21, 51 and 51 (3D-tracking)
+Auto-Area AF ModeYes
+Autofocus System Type51 focus points (including 15 cross-type sensors; f/8 supported by 11 sensors)
+AF-assist illuminator (range approx. 0.5-3 m/1 ft. 8 in.-9 ft. 10 in.)
+Finetuning
+Nikon Advanced Multi-CAM 3500FX II autofocus sensor module with TTL phase detection
+Detection Range-3 to +19 EV (ISO 100, 68°F/20°C)
+Lens ServoAutofocus (AF): Single-servo AF (AF-S); Continuous-servo AF (AF-C); auto AF-S/AF-C selection (AF-A); predictive focus tracking activated automatically according to subject status
+Manual focus (MF): Electronic rangefinder can be used
+AF-Area Mode9, 21 or 51 point Dynamic-area AF
+Auto-area AF
+Single-point AF
+3D-tracking (51 points)
+Group-area AF
+Focus LockFocus can be locked by pressing AE-L/AF-L button
+Focus can be locked by pressing shutter-release button halfway (single-servo AF)
+Focus ModesAuto AF-S/AF-C selection (AF-A)
+Continuous-servo (AF-C)
+Face-Priority AF available in Live View only and D-Movie only
+Full-time Servo (AF-A) available in Live View only and D-Movie only
+Manual (M) with electronic rangefinder
+Normal area AF
+Single-servo AF (AF-S)
+Wide area AF
+Maximum Autofocus Areas/Points51
+Autofocus Sensitivity-3 to +19 EV (ISO 100, 20°C/68°F)
+Autofocus Fine TuneYes
+Collapse Flash
+Built-in FlashYes
+Flash Bracketing2 to 5 frames in steps of 2 or 3 EV
+2 to 9 frames in steps of 1/3, 1/2, 2/3 or 1 EV
+Built-in Flash Distance39 ft. (ISO 100)
+X-Sync Speed1/200
+Top FP High Speed SyncUp to 1/4000
+Flash ControlTTL: i-TTL flash control using 91,000-pixel RGB sensor are available with built-in flash and SB-910, SB-900, SB-800, SB-700, SB-600, SB-500, SB-400, or SB-300; i-TTL balanced fill-flash for digital SLR is used with matrix and center-weighting metering, standard i-TTL flash for digital SLR with spot metering
+Flash Sync ModesAuto
+Auto FP High-Speed Sync supported
+Auto with red-eye reduction
+Auto slow sync
+Auto slow sync with red-eye reduction
+Fill-flash
+Rear-curtain sync
+Rear-curtain with slow sync
+Red-Eye reduction
+Red-Eye reduction with slow sync
+Slow sync
+Off
+Flash Compensation-3 to +1 EV in increments of 1/3, 1/2 or 1 EV
+Flash-ready IndicatorLights when built-in flash or optional flash unit is fully charged; flashes after flash is fired at full output
+Accessory ShoeYes
+Nikon Creative Lighting System (CLS)CLS Supported
+Collapse White Balance
+White BalanceAuto (2 types)
+Choose color temperature (2500K to 10000K)
+Cloudy
+Direct Sunlight
+Flash
+Fluorescent (7 types)
+Incandescent
+Preset manual (up to 6 values can be stored, spot white balance measurement available during live view)
+Shade
+White Balance Bracketing2 to 9 exposures in increments of 1, 2 or 3 EV
+Collapse Live View
+Live View ShootingPhotography Live View Mode
+Movie Live View Mode
+Live View Lens ServoAutofocus (AF): Single-servo AF (AF-S); full-time-servo AF (AF-F)
+Manual focus (MF)
+Live View AF-Area ModeFace-priority AF
+Wide-area AF
+Normal-area AF
+Subject-tracking AF
+Live View AutofocusContrast-detect AF anywhere in frame (camera selects focus point automatically when face-priority AF or subject-tracking AF is selected)
+Collapse Movie
+Movie MeteringTTL exposure metering using main image sensor
+Movie Maximum Recording Time20 minutes at highest quality
+29 minutes 59 seconds at normal quality
+Movie File FormatMOV
+Movie Video CompressionH.264/MPEG-4 Advanced Video Coding
+Movie Audio Recording FormatLinear PCM
+MovieFull HD 1,920x1,080 / 60 fps
+Full HD 1,920x1,080 / 50 fps
+Full HD 1,920x1,080 / 30 fps
+Full HD 1,920x1,080 / 25 fps
+Full HD 1,920x1,080 / 24 fps
+HD 1,280x720 / 60 fps
+HD 1,280x720 / 50 fps
+Movie AudioBuilt-in microphone, stereo
+External stereo microphone (optional)
+Collapse Monitor
+Monitor Size3.2 in. diagonal
+Monitor Resolution1,229,000 Dots
+Monitor TypeWide Viewing Angle TFT-LCD
+Monitor Angle of View170-degree wide-viewing angle
+Monitor AdjustmentsBrightness and angle adjustment available
+Virtual Horizon Camera IndicatorYes
+Also visible in LiveView Modes
+Also visible in Viewfinder
+Collapse Playback
+Playback FunctionsAuto Image Rotation
+Full-Frame and Thumbnail (4, 9, or 72 images or calendar)
+Highlights
+Histogram Display
+Image Comment
+Movie Playback
+Movie Slideshow
+Playback with Zoom
+Slideshow
+In-Camera Image EditingColor Balance
+Color Outline
+Color Sketch
+D-Lighting
+Distortion Control
+Edit Movie
+Filter Effects
+Fisheye
+Image Overlay
+Miniature Effect
+Monochrome
+NEF (RAW) Processing
+Perspective Control
+Quick Retouch
+Red-Eye Correction
+Resize
+Selective Color
+Side-by-Side Comparison
+Straighten
+Trim
+Image CommentYes
+Collapse Interface
+InterfaceAudio input: Stereo mini-pin jack (3.5 mm diameter; plug-in power supported)
+HDMI output: Type C mini-pin HDMI connector
+Headphone Connector
+Hi-speed USB
+NTSC
+Wi-Fi FunctionalityYes (Built-in)
+Smart Device App ConnectivityWireless Mobile Utility (WMU)
+GPSGP-1 GPS unit
+GP-1A GPS unit
+Save/Load Camera SettingsYes
+Collapse Menus
+Total Custom Settings54
+My MenuYes with customization
+Recent SettingsYes
+Supported LanguagesArabic
+Bengali
+Brazilian Portuguese
+Bulgarian
+Chinese (Simplified and Traditional)
+Czech
+Danish
+Dutch
+English
+Finnish
+French
+German
+Greek
+Hindi
+Hungarian
+Indonesian
+Italian
+Japanese
+Korean
+Marathi
+Norwegian
+Persian
+Polish
+Portuguese
+Romanian
+Russian
+Serbian
+Spanish
+Swedish
+Tamil
+Telugu
+Thai
+Turkish
+Ukrainian
+Vietnamese
+Date, Time and Daylight Savings Time SettingsYes
+World Time SettingYes
+Collapse Power
+Battery / BatteriesEN-EL15 Lithium-ion Battery
+Battery Life (shots per charge)1,230  shots (CIPA) 
+AC AdapterEH-5b AC Adapter; requires EP-5B Power Connector (available separately)
+Battery ChargerMH-25a Quick Charger
+Collapse Miscellaneous
+Tripod Socket1/4 in.
+Approx. Dimensions (Width x Height x Depth)5.6 in. (140.5 mm)  x  4.5 in. (113 mm)  x  3.1 in. (78 mm)
+Approx. Weight26.5 oz. (750 g)
+camera body only
+Operating Environment0–40 °C (+32–104 °F)

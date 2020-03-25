@@ -1,0 +1,32 @@
+Mount TypeNikon Z Mount
+Focal Length24mm
+Maximum Aperturef/ 1.8
+Minimum Aperturef/ 16
+FormatFX
+Maximum Angle of View (DX-format)61˚
+Minimum Angle of View (FX-format)84°
+Maximum Reproduction Ratio0.15x
+Lens Elements12
+Lens Groups10
+Compatible Format(s)FX
+DX
+Diaphragm Blades9
+Rounded diaphragm opening
+Nano Crystal CoatYes
+ED Glass Elements1
+Aspherical Elements4
+Super Integrated CoatingYes
+AutofocusYes
+AF ActuatorSTM (stepping motor)
+Minimum Focus Distance0.82 ft. ( 0.25 m)
+Focus ModeAutofocus
+Manual
+Rear FocusingYes
+Filter Size72mm
+Accepts Filter TypeScrew-in
+Approx. Dimensions (Diameter x Length)3.1 in. (78.0 mm)  x  3.8 in. (96.5 mm)
+Distance from camera lens mount flange
+Based on CIPA guidelines
+Approx. Weight15.9 oz. (450 g)
+Based on CIPA guidelines
+Lens TypePrime

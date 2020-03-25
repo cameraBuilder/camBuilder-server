@@ -1,0 +1,37 @@
+Mount TypeNikon Z Mount
+Focal Length Range14 - 30mm
+Zoom Ratio2.1x
+Maximum Aperturef/ 4
+Minimum Aperturef/ 22
+FormatFX
+Maximum Angle of View (DX-format)90°
+Minimum Angle of View (DX-format)50°
+Maximum Angle of View (FX-format)114°
+Minimum Angle of View (FX-format)72°
+Maximum Reproduction Ratio0.16x
+Lens Elements14
+Lens Groups12
+Compatible Format(s)FX
+DX
+Diaphragm Blades7
+Distance InformationVisible in EVF with manual focusing
+Nano Crystal CoatYes
+ED Glass Elements4
+Aspherical Elements4
+Fluorine CoatYes
+Super Integrated CoatingYes
+AutofocusYes
+AF ActuatorSTM (stepping motor)
+Internal FocusingYes
+Minimum Focus Distance11 in. (0.28m.) from focal plane at all zoom positions
+Focus ModeAutofocus
+Manual
+E-typeYes
+Filter Size82mm
+Accepts Filter TypeScrew-in
+Approx. Dimensions (Diameter x Length)3.5 in. (89 mm)  x  3.3 in. (85 mm)
+Distance from camera lens mount flange when lens is retracted
+Based on CIPA guidelines
+Approx. Weight17.1 oz. (485 g)
+Based on CIPA guidelines
+Lens TypeZoom

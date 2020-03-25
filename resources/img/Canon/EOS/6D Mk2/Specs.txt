@@ -1,0 +1,162 @@
+Year announced	2017	Edit
+General
+Lens Mounts	
+Canon EF
+Edit
+Lens
+Effective Magnification 	1x	Edit
+Image Sensor
+Pixels 	26.2Mp (Megapixels)	Edit
+Pixels (W)	6240	Edit
+Pixels (H)	4160	Edit
+Sensor Type	CMOS	Edit
+Sensor Size 	Full-Frame	Edit
+Sensor Size (width)	35.9mm	Edit
+Sensor Size (height)	24mm	Edit
+Aspect Ratio 	
+3:2
+4:3
+16:9
+1:1
+Edit
+Pixel pitch 	No Data	Edit
+LCD Monitor
+LCD Monitor 	3in	Edit
+Brightness adjust	Yes	Edit
+Tilting screen	Yes	Edit
+Live view	Yes	Edit
+Screen resolution 	1040K	Edit
+Touch Screen 	Yes	Edit
+Focusing
+Focusing modes 	
+Autofocus
+Manual
+Spot
+Face Detection
+AF Tracking
+Multi
+Centre
+Touch AF
+AF Fine Tuning (Micro Adjustment)
+Edit
+Focusing Points 	45	Edit
+Auto Focus Sensitivity 	-3EV - 18EV	Edit
+Construction
+Weather-sealed 	Yes	Edit
+Exposure Control
+Shutter speeds shortest 	1/4000sec	Edit
+Shutter speeds longest 	30sec	Edit
+Bulb mode 	Yes	Edit
+Self Timer 	No Data	Edit
+Exp modes 	
+Program
+Aperture-Priority
+Shutter-Priority
+Manual
+Scene modes
+Program Variable
+Edit
+AE lock 	Yes	Edit
+Metering	
+Centre-weighted - Average
+Multi Pattern
+Spot
+Centre Spot
+Edit
+ISO sensitivity 	50 - 102400	Edit
+White balance 	
+Auto
+Manual
+Bracket
+Outdoors/Daylight
+Cloudy
+Incandescent
+Fluorescent
+Shade
+Flash
+Edit
+Digital filter	No Data	Edit
+Exposure Comp 	+/-5	Edit
+Auto Exposure Bracketing 	No Data	Edit
+Viewfinder
+Viewfinder field of view	98%	Edit
+Depth of field preview 	No Data	Edit
+Interchangable focusing screen 	No Data	Edit
+Viewfinder Resolution 	No Data	Edit
+Magnification 	0.71x	Edit
+Shooting Options
+Continuous shooting 	6.5fps	Edit
+Multiple exposure 	No Data	Edit
+Sound recording 	Yes	Edit
+Video
+Movie mode 	Yes	Edit
+Video Resolution 	
+1920x1080 FullHD
+Edit
+Video FPS 	60, 50, 29, 25, 24fps	Edit
+Stereo Sound 	Yes	Edit
+Optical Zoom with Video 	Yes	Edit
+Flash
+Flash Guide Number (ISO100/m)	No Data	Edit
+Flash sync speed 	No Data	Edit
+Flash modes 	
+Edit
+Flash sync socket 	
+Edit
+Flash compensation	No Data	Edit
+Flash Range 	No Data	Edit
+Shooting Performance
+Shutter response 	No Data	Edit
+Focus speed - Wide 	No Data	Edit
+Focus speed - Telephoto 	No Data	Edit
+Switch on time to first photo 	No Data	Edit
+Shot to shot speed 	No Data	Edit
+Shot to shot speed - flash 	No Data	Edit
+Continuous shooting - JPEG 	No Data	Edit
+Continuous shooting - Flash 	No Data	Edit
+Continuous shooting - RAW 	No Data	Edit
+Other Features
+Number of Custom Functions	No Data	Edit
+Dust removal	No Data	Edit
+Image Stabilisation	No	Edit
+Histogram 	No Data	Edit
+Thumbnail / Index view 	No Data	Edit
+Video out 	No Data	Edit
+Slide show mode 	No Data	Edit
+Zoom playback 	No Data	Edit
+GPS enabled 	Yes	Edit
+Interface
+HDMI	Yes	Edit
+USB 	USB 2	Edit
+Firewire	No	Edit
+Platform	
+Edit
+Wi-Fi	Yes	Edit
+Ethernet 	No	Edit
+NFC 	Yes	Edit
+Bluetooth 	Yes	Edit
+Microphone Socket 	Yes	Edit
+Headphone Socket 	No	Edit
+Storage
+Card Type 	
+SD
+SDHC
+SDXC
+Edit
+File Type 	
+RAW
+JPG
+RAW + JPG
+Edit
+Internal Memory	No Data	Edit
+Power Source
+Battery Type 	Rechargeable Li-ion Battery LP-E6N	Edit
+Battery Life (CIPA rating) 	1200shots	Edit
+Movie recording time 	No Data	Edit
+Box Contents
+Box Contents 	No Data	Edit
+Dimensions
+Weight	765g	Edit
+Width	144mm	Edit
+Height	110.5mm	Edit
+Depth	74.8mm

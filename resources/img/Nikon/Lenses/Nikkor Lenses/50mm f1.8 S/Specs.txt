@@ -1,0 +1,33 @@
+Mount TypeNikon Z Mount
+Focal Length50mm
+Maximum Aperturef/ 1.8
+Minimum Aperturef/ 16
+FormatFX
+Maximum Angle of View (DX-format)31°30′
+Maximum Angle of View (FX-format)47°00′
+Maximum Reproduction Ratio0.15x
+Lens Elements12
+Lens Groups9
+Compatible Format(s)FX
+DX
+Diaphragm Blades9
+Distance InformationVisible in EVF with manual focusing
+Nano Crystal CoatYes
+ED Glass Elements2
+Aspherical Elements2
+Super Integrated CoatingYes
+AutofocusYes
+AF ActuatorSTM (stepping motor)
+Internal FocusingYes
+Minimum Focus Distance1.32 ft. ( 0.4 m)
+Focus ModeAutofocus
+Manual
+E-typeYes
+Filter Size62mm
+Accepts Filter TypeScrew-in
+Approx. Dimensions (Diameter x Length)3 in. (76 mm)  x  3.4 in. (86.5 mm)
+Distance from camera lens mount flange when lens is retracted
+Based on CIPA guidelines
+Approx. Weight14.7 oz. (415 g)
+Based on CIPA guidelines
+Lens TypePrime

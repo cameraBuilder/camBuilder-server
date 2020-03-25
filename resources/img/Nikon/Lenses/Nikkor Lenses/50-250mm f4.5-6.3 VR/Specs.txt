@@ -1,0 +1,36 @@
+Mount TypeNikon Z Mount
+Focal Length Range50 - 250mm
+Zoom Ratio5x
+Maximum Aperturef/ 4.5-6.3
+Minimum Aperturef/ 16
+FormatDX
+Maximum Angle of View (DX-format)31°30′
+Minimum Angle of View (DX-format)6° 30’
+Maximum Reproduction Ratio0.23x
+Lens Elements16
+Lens Groups12
+Compatible Format(s)DX
+VR (Vibration Reduction) Image StabilizationYes
+Dual detect optical VR lens shift using voice coil motors (VCMs)
+Diaphragm Blades7
+rounded diaphragm opening
+ED Glass Elements1
+Super Integrated CoatingYes
+AutofocusYes
+AF ActuatorSTM (stepping motor)
+Internal FocusingYes
+Minimum Focus Distance1.64 ft. (0.5m.) at 50mm zoom position
+1.71 ft. (0.52m.) at 70mm zoom position
+1.91 ft. (0.58 m.) at 100mm zoom position
+2.14 ft. (0.65 m.) at 135mm zoom position
+2.73 ft. (0.83 m.) at 200mm zoom position
+3.29 ft. (1.0 m.) at 250mm zoom position
+Focus ModeAutofocus
+Manual
+Filter Size62mm
+Accepts Filter TypeScrew-in
+Approx. Dimensions (Diameter x Length)3 in. (74 mm)  x  4.4 in. (110 mm)
+Based on CIPA guidelines
+Approx. Weight14.3 oz. (405 g)
+Based on CIPA guidelines
+Lens TypeZoom

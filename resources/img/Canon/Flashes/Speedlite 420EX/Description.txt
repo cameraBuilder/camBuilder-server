@@ -1,0 +1,17 @@
+Type	Shoe mount
+Guide No.	101' (30.8 m) @ 35mm
+138' (42 m) @ 105mm
+Angle of Coverage	84 Degrees (24mm in 35mm) to 23 Degrees (105mm in 35mm)
+Auto Distance Range	None (full TTL at all apertures)
+Auto f/Stops	None (full TTL at all apertures)
+Vari-Power	None (full TTL at all apertures)
+TTL Dedication	Yes (E-TTL with appropriate cameras)
+Bounce Head	Yes
+Swivel Head	Yes
+Zoom Head	24-105mm (flash head senses focal length & adjusts accordingly)
+Off Camera Terminal	No
+Recycle Time	7 Seconds (based on alkaline batteries & full power)
+4 Seconds (based on NiCd batteries & full power)
+Power Source	Four 1.5-volt "AA" alkaline or NiCd batteries
+Dimensions	2.8 x 4.8 x 3.9" (72 x 123 x 99mm) WxHxD
+Weight	0.66 lb (300g)

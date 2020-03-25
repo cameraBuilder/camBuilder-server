@@ -1,0 +1,69 @@
+Commander FunctionYes
+Remote FunctionYes
+Guide Number28 m/92 ft. (at ISO 100, 35mm zoom head position, in FX format, standard illumination pattern, 20°C/68°F) to 39 m/128 ft. (at ISO 200, 35mm zoom head position, in FX format, standard illumination pattern, 20°C/68°F)
+Electronic ConstructionAutomatic Insulated Gate Bipolar Transistor (IGBT) and series circuitry
+Flash Exposure ControlDistance-priority manual flash
+i-TTL Balanced Fill-Flash with CLS compatible cameras
+Manual Flash (with Nikon Creative Lighting System digital and 35mm SLR cameras)
+Lens Coverage14-120mm (DX-format)
+24 to 120mm (FX-Format)
+Illumination patternThe light distribution angle is automatically adjusted to the camera's image area in both FX and DX formats
+Standard
+Even
+Center-weighted
+Other Available FunctionsTest Firing
+Monitor Pre-flashes
+AF-assist illuminator
+Modeling illuminator
+Bounce Function (Tilt)Flash head tilts down to -7° or up to 90° with click-stops at -7°, 0°, 45°, 60°, 75°, 90°.
+Bounce Function (Rotate)Flash head rotates horizontally 180° to the left and right with click-stops at 0°, 30°, 60°, 75°, 90°, 120°, 150°, 180°
+Minimum Recycling Time2.5 sec. (approx.) with AA-size Alkaline (1.5V) batteries
+2.5 sec. (approx.) with Evolta (1.5V) batteries
+2.5 sec. (approx.) with NiMH (2600 mAh) batteries
+2.5 sec. (approx.) with NiMH (eneloop) batteries
+3.5 sec. (approx.) with Lithium (1.5V) batteries
+Flash Duration1/1042 sec. at M1/1 (full) output
+1/1136 sec. at M1/2 output
+1/2857 sec. at M1/4 output
+1/5714 sec. at M1/8 output
+1/10000 sec. at M1/16 output
+1/18182 sec. at M1/32 output
+1/25000 sec. at M1/64 output
+1/40000 sec. at M1/128 output
+Power ON/OFFRotate the power switch/wireless mode switch for multiple flash units to turn the SB-700 on or off
+Standby function can also be set
+Required Power SourceFour 1.5 V alkaline AA-size batteries
+Four 1.5 V lithium AA-size batteries
+Four Rechargeable 1.2 V NiMH AA-size batteries
+Flash-ready IndicatorBlinks: insufficient flash output for correct exposure (in i-TTL or distance-priority manual flash mode)
+Lights up: recycled and ready to fire.
+Ready LightFront
+Back
+Flash Compensation-3.0 EV to +3.0 EV in increments of 1/3 EV steps in i-TTL mode
+Custom SettingAF-Assist Illumination
+Color Filters
+Flash Compensation Steps in Manual Flash Mode
+FX/DX Format Selection
+LCD Panel Contrast
+Remote Flash Unit Settings
+Reset Custom Setting
+Sound Monitor
+Standby function
+Unit or Measuring Distance
+Version of Firmware
+Minimum Number of Flashes / Recycling Time160/2.5–30 sec. (1.5V AA Alkaline)
+230/2.5–30 sec. (1.5V Evolta)
+260/2.5–30 sec. (2600 mAh NiMH)
+230/2.5–30 sec. (Ni-MH (eneloop))
+330/3.5–30 sec. (1.5V Lithium)
+Wireless Flash ModesMaster
+Quick Wireless Mode: A:B
+Off
+Remote
+SU-4
+Wireless Communication ChannelsFour: 1, 2, 3 and 4 Channels
+Wireless GroupsTwo: A, B
+Other FunctionsFirmware update
+Thermal cut-out
+Approx. Dimensions (Width x Height x Depth)2.8 in. (71 mm)  x  5 in. (126 mm)  x  4.1 in. (104.5 mm)
+Approx. Weight (Without Batteries)12.7 oz. (360 g)

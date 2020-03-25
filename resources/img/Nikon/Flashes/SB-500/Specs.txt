@@ -1,0 +1,31 @@
+Commander FunctionYes
+Remote FunctionYes
+Guide Number24m/78.7ft. (at ISO 100)
+Electronic ConstructionAutomatic Insulated Gate Bipolar Transistor (IGBT) and series circuitry
+Flash Exposure Controli-TTL Balanced Fill-Flash with CLS compatible cameras
+Lens Coverage24 mm lens (FX format) or 16 mm lens (DX format)
+Other Available FunctionsTest Firing
+Monitor Pre-flashes
+Modeling flash (LED)
+Bounce Function (Tilt)Flash head tilts up to 90° with click-stops at 0°, 60°, 75°, 90°.
+Bounce Function (Rotate)Flash head rotates horizontally 180° to the left and right with click-stops at 0°, 30°, 60°, 75°, 90°, 120°, 150°, 180°
+Minimum Recycling Time3.5 sec. (approx.) with Ni-MH batteries
+4.0 sec. (approx.) with Alkaline-manganese (1.5V) batteries
+Flash Duration1/1100 sec. at M 1/1 (full) output
+Required Power Source2 AA-size batteries of the same brand from any of the following types:
+1.5V LR6 (AA-size) alkaline batteries
+1.2V HR6 (AA-size) rechargeable Ni-MH batteries
+Flash-ready IndicatorFully recycled: lights up
+Warning indication: flashes slowly
+Ready LightBack
+Flash CompensationAvailable via camera settings
+Minimum Number of Flashes / Recycling Time100/4.0-30 sec. (Alkaline-manganese batteries)
+140/3.5-30 sec. (Ni-MH batteries)
+Wireless Flash ModesCommander / Remote
+Wireless Communication Channels4 channels for Commander mode; 1 channel for Remote mode
+Wireless GroupsTwo: A, B
+Other FunctionsFirmware update
+Thermal cut-out
+LED light with three level brighness for close-up photography, modeling light or recording movies - maximum output: approx. 100 lx at 1 m (3.3 ft.), high power
+Approx. Dimensions (Width x Height x Depth)2.6 in. (67 mm)  x  4.5 in. (114.5 mm)  x  2.8 in. (70.8 mm)
+Approx. Weight (Without Batteries)8 oz. (226 g)

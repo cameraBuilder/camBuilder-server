@@ -1,0 +1,35 @@
+Mount	Shoe
+Type	Shoe mount
+Guide No.	
+72' (22 m) at 28mm
+89' (27 m) at 50mm (both rated at ISO 100)
+Guide No.	72' / 21.95 m ISO 100 at 28 mm Position
+Angle of Coverage	2-Settings: 28mm and 50mm (based on 35mm/full frame format)
+Exposure Control	TTL
+Angle of Coverage	28° - 50°
+Auto Distance Range	(Tested at ISO 100, with EF 50mm f/1.4 lens)
+For normal (28mm): 2.3-51.5' (0.7-15.7m)
+For tele end (50mm): 2.3-63.3' (0.7-19.3m)
+For high sync speed (at 1/250 second): Approx. 2.3-24.9' (0.7-7.6m)
+Auto f/Stops	Not specified by manufacturer
+Bounce Head	Yes, +60 to +90°
+Vari-Power	Not specified by manufacturer
+Swivel Head	None
+Coverage	28 - 50 mm (Full Frame)
+TTL Dedication	Full E-TTL II/ E-TTL
+Bounce Head	Yes: 60°, 75°, and 90° settings
+Zoom Head	None
+Off-Camera Terminal	None
+Swivel Head	No
+Compensation	None
+Zoom Head	No
+Wireless Channels	None
+Off Camera Terminal	No
+Recycle Time	Normal flash: Approx. 0.1 to 3.9 seconds; Quick flash: 0.1 to 2.6 seconds (using AA-size Alkaline Batteries)
+Wireless Groups	None
+Power Source	Two 1.5-Volt "AA" batteries (alkaline, lithium, NiMH or NiCad)
+Power Source	2 x AA Alkaline Batteries
+Dimensions (W x H x D)	2.5 x 2.6 x 3.0" / 6.3 x 6.6 x 7.6 cm
+Dimensions	2.5 x 2.6 x 3.0" (64 x 65 x 76.5mm)
+Weight	5.1 oz (145g)
+Weight	5.1 oz / 144.6 g

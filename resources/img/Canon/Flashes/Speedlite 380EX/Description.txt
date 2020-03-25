@@ -1,0 +1,16 @@
+Type	Shoe Mount
+Guide No.	102' (31 m) @ 50mm
+125' (38 m) @ 105mm
+Angle of Coverage	84° (24mm lens in 35mm format)
+Auto Distance Range	None (full TTL at all apertures)
+Auto f/Stops	None (full TTL at all apertures)
+Vari-Power	None
+TTL Dedication	Yes (E-TTL on newer Canon cameras)
+Bounce Head	Yes
+Swivel Head	No
+Zoom Head	Yes (power zoom adjusts from 24-105mm)
+Off Camera Terminal	No
+Recycle Time	7.5 Seconds (based on fresh batteries & full power)
+Power Source	Four 1.5-volt "AA" alkaline batteries
+Dimensions	2.9 x 4.5 x 4.8" (75 x 114 x 121mm) WxHxD
+Weight	0.59 lb (269 g)

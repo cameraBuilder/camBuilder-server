@@ -1,0 +1,14 @@
+Type	Shoe mount
+Guide No.	141' (43 m) @ 105mm
+Angle of Coverage	114 Degrees (14mm in 35mm) to 23 Degrees (105mm in 35mm)
+Vari-Power	Yes, full power to 1/64th (in whole stop increments)
+TTL Dedication	Yes (E-TTL II with appropriate cameras)
+Bounce Head	Yes
+Swivel Head	Yes
+Zoom Head	24-105mm (flash head senses focal length, sensor size & adjusts accordingly), plus built-in 14mm panel
+Off Camera Terminal	No
+Recycle Time	3.7 Seconds (based on alkaline batteries & full power)
+2 Seconds (based on NiMH batteries & full power)
+Power Source	Four AA 1.5-volt batteries
+Dimensions	2.8 x 4.8 x 4" (72 x 122 x 101mm) WxHxD
+Weight	11.6 oz 330 g) [without batteries]

@@ -1,0 +1,15 @@
+Type	Shoe Mount
+Guide No.	65' (19.8 m)
+Angle of Coverage	63° (35mm lens)
+Auto Distance Range	2.3-23' (0.7 to 7.0 m)
+Auto f/Stops	None (full TTL at all apertures)
+Vari-Power	None
+TTL Dedication	Yes
+Bounce Head	No
+Swivel Head	No
+Zoom Head	No
+Off Camera Terminal	No
+Recycle Time	4 Seconds (based on fresh batteries & full power)
+Power Source	Four 1.5-volt "AA" alkaline batteries
+Dimensions	2.1 x 4.2 x 6 x 1.6" (54 x 106 x 41mm) WxHxD
+Weight	0.29 lb (130 g)

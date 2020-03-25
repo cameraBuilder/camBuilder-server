@@ -1,0 +1,139 @@
+Lens Mount	Sony E
+Camera Format	APS-C (1.5x Crop Factor)
+Pixels	Actual: 25 Megapixel
+Effective: 24.2 Megapixel
+Maximum Resolution	6000 x 4000
+Aspect Ratio	3:2, 16:9
+Sensor Type	CMOS
+Sensor Size	23.5 x 15.6 mm
+Image File Format	JPEG, Raw
+Bit Depth	14-Bit
+Image Stabilization	None
+Exposure Control
+ISO Sensitivity	100 to 32000 (Extended: 100 to 102400)
+Shutter Speed	Electronic Front Curtain Shutter
+1/4000 to 30 Seconds
+Bulb Mode
+Metering Method	Average, Center-Weighted Average, Highlight Weighted, Multi-Zone, Spot
+Exposure Modes	Aperture Priority, Auto, Manual, Program, Shutter Priority
+Exposure Compensation	-5 to +5 EV (1/3, 1/2 EV Steps)
+Metering Range	-2 to 20 EV
+White Balance	Auto, Cloudy, Color Temperature, Color Temperature Filter, Custom, Daylight, Flash, Fluorescent (Cool White), Fluorescent (Day White), Fluorescent (Daylight), Fluorescent (Warm White), Incandescent, Shade, Underwater
+Continuous Shooting	Up to 11 fps at 24.2 MP for up to 46 Frames (Raw) / 116 Frames
+Interval Recording	Yes
+Self-Timer	2/5/10-Second Delay
+Video
+Recording Modes	XAVC S
+UHD 4K (3840 x 2160) at 24.00p/25p/29.97p [60 to 100 Mb/s]
+Full HD (1920 x 1080) at 100p/119.88p [60 to 100 Mb/s]
+Full HD (1920 x 1080) at 24.00p/25p/29.97p/50p/59.94p [50 Mb/s]
+Full HD (1920 x 1080) at 50p/59.94p [25 Mb/s]
+Full HD (1920 x 1080) at 25p/29.97p [16 Mb/s]
+AVCHD
+Full HD (1920 x 1080) at 50i/59.94i [17 to 24 Mb/s]
+External Recording Modes	4:2:2 8-Bit
+UHD 4K (3840 x 2160) at 24.00p/25p/29.97p
+Full HD (1920 x 1080) at 24.00p/50i/50p/59.94i/59.94p
+Video Encoding	NTSC/PAL
+Audio Recording	Built-In Microphone (Stereo)
+External Microphone Input
+Audio File Format	AC3, Dolby Digital 2ch, Linear PCM
+Focus
+Focus Type	Auto and Manual Focus
+Focus Mode	Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)
+Autofocus Points	Phase Detection: 425
+Contrast Detection: 425
+Autofocus Sensitivity	-2 to +20 EV
+Viewfinder and Monitor
+Viewfinder Type	Electronic
+Viewfinder Size	0.39"
+Viewfinder Resolution	2,359,296 Dot
+Viewfinder Eye Point	23 mm
+Viewfinder Coverage	100%
+Viewfinder Magnification	Approx. 1.07x
+Diopter Adjustment	-4 to +3
+Monitor Size	3"
+Monitor Resolution	921,600 Dot
+Monitor Type	180° Tilting Touchscreen LCD
+Flash
+Built-In Flash	Yes
+Flash Modes	Auto, Fill Flash, Hi-Speed Sync, Off, Rear Sync, Red-Eye Reduction, Slow Sync, Wireless
+Guide Number	19.69' / 6 m at ISO 100
+Maximum Sync Speed	1/160 Second
+Flash Compensation	-3 to +3 EV (1/3, 1/2 EV Steps)
+Dedicated Flash System	TTL
+External Flash Connection	Hot Shoe, Wireless
+Interface
+Memory Card Slot	Single Slot: SD/SDHC/SDXC/Memory Stick Duo Hybrid (UHS-I)
+Connectivity	3.5mm Microphone, HDMI D (Micro), Wired Remote Port, USB Micro-B (USB 2.0)
+Wireless	Wi-Fi
+GPS	No
+Environmental
+Operating Temperature	32 to 104°F / 0 to 40°C
+Physical
+Battery	1 x NP-FW50 Rechargeable Lithium-Ion, 7.2 VDC, 1080 mAh
+Dimensions (W x H x D)	4.7 x 2.6 x 2.4" / 120 x 66.9 x 59.7 mm
+Weight	14.22 oz / 403 g (Body with Battery and Memory)
+Kit Lens
+Focal Length	16 to 50mm (35mm Equivalent Focal Length: 24 to 75mm)
+Maximum Aperture	f/3.5 to 5.6
+Minimum Aperture	f/22 to 36
+Angle of View	32° to 82°
+Maximum Magnification	0.21x
+Minimum Focus Distance	0.82' / 25 cm
+Optical Design	9 Elements in 8 Groups
+Diaphragm Blades	7
+Focus Type	Autofocus
+Image Stabilization	Yes
+Filter Size	40.5 mm (Front)
+Dimensions (ø x L)	2.63 x 1.19" / 66.8 x 30.23 mm
+Weight	0.26 lb / 116 g
+Packaging Info
+Package Weight	1.72 lb
+Box Dimensions (LxWxH)	6 x 5.11 x 4.5"
+Ruggard Hunter 15 Mirrorless Camera Holster Bag Specs
+Carrying/Transport Options	Belt Loop, Handle, Shoulder Strap
+Exterior
+Exterior Dimensions	6.3 x 4.5 x 6.3" / 16 x 11.4 x 16 cm
+Exterior Material	Nylon
+Type of Closure	Quick Release, Zipper
+Interior
+Interior Dimensions	5.5 x 3.5 x 5.1" / 14 x 8.9 x 13 cm
+Interior Material	Polyester
+Weight	8.2 oz / 232.5 g
+Packaging Info
+Package Weight	0.6 lb
+Box Dimensions (LxWxH)	9.85 x 8.5 x 5"
+SanDisk 64GB Extreme PRO UHS-I SDXC Memory Card Specs
+Interior
+Card Type	SDXC
+Storage Capacity	64 GB
+Bus Type	UHS-I
+Speed Class	10
+UHS Speed Class	U3
+Video Speed Class	V30
+Data Transfer	Read Speed: 170 MB/s Maximum (Burst)
+Write Speed: 90 MB/s Maximum (Burst)
+Write Speed: 30 MB/s Minimum
+Durability	Shockproof, Temperature Extremes, Waterproof, X-Ray Proof
+Operating Temperature	-13 to 185°F/ -25 to 85°C
+Storage Temperature	-40 to 185°F/ -40 to 85°C
+Built-in Write-Protect Switch	Yes
+Wireless Capability	None
+Packaging Info
+Package Weight	0.05 lb
+Box Dimensions (LxWxH)	6.05 x 4 x 0.6"
+Sensei OC-CK Optics Care And Cleaning Kit Specs
+Interior
+Certifications	RoHS
+WEEE
+Dimensions	Cleaning Fluid Bottle: 4.1 x 1.2 / 10.4 x 3 cm
+Lipstick Brush: 4.1 x 0.7" / 10.4 x 1.8 cm
+Lens Tissue (Pack): 4 x 6" / 10.2 x 15.2 cm
+Paint Brush: 5.75 x 0.6" / 14.6 x 1.5 cm
+Bulb Air Blower: 5.8 x 2.1" / 14.7 x 5.3 cm
+Travel Case: 8.25 x 2.6 x 2.7" / 30 x 6.6 x 6.9 cm
+Weight	Overall Kit: 5 oz / 143 g
+Packaging Info
+Package Weight	0.35 lb
+Box Dimensions (LxWxH)	8.25 x 2.4 x 2.4"

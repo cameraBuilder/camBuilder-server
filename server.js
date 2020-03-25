@@ -2,13 +2,16 @@ var express     = require('express');
 var app         = express();
 var bodyParser  = require('body-parser');
 var morgan      = require('morgan');
-var port        = process.env.PORT || 8080;
+var port        = 3000;
 var passport	= require('passport');
 var router      = require('./routes')
 const fs = require('fs');
 const https = require('https');
 const key = fs.readFileSync('./key.pem');
 const cert = fs.readFileSync('./cert.pem');
+var response    = require('./app/models/response');
+
+
 
  
 // get our request parameters
@@ -23,7 +26,7 @@ app.use(passport.initialize());
  
 // demo Route
 app.get('/', function(req, res) {
-  res.send('Hello CamBulders!!!');
+ return res.status(200).json(new response(200, null, "Hello cam builders").JSON)
 });
 
 app.use('/api', router);

@@ -1,0 +1,73 @@
+Lens Mount	Sony A
+Camera Format	APS-C (1.5x Crop Factor)
+Pixels	Actual: 24.8 Megapixel
+Effective: 24.2 Megapixel
+Maximum Resolution	6000 x 4000
+Aspect Ratio	3:2
+Sensor Type	CMOS
+Sensor Size	23.5 x 15.6 mm
+Image File Format	JPEG, Raw
+Bit Depth	14-Bit
+Image Stabilization	Sensor-Shift
+Exposure Control
+ISO Sensitivity	Auto, 100 to 25600
+Shutter Speed	Mechanical Shutter
+1/4000 to 30 Seconds
+Bulb Mode
+Metering Method	Center-Weighted Average, Multi-Zone, Spot
+Exposure Modes	Aperture Priority, Auto, Manual, Program, Shutter Priority
+Exposure Compensation	-5 to +5 EV (1/3 EV Steps)
+Metering Range	-2 to 17 EV
+White Balance	Auto, Cloudy, Color Temperature, Color Temperature Filter, Custom, Daylight, Flash, Fluorescent (Cool White), Fluorescent (Day White), Fluorescent (Daylight), Fluorescent (Warm White), Incandescent, Shade
+Continuous Shooting	Up to 8 fps at 24 MP
+Self-Timer	2/10-Second Delay
+Video
+Recording Modes	XAVC S/H.264
+Full HD (1920 x 1080) at 23.976p/29.97p [50 Mb/s]
+AVCHD/H.264
+Full HD (1920 x 1080) at 29.97i/59.94i
+MP4/H.264
+Full HD (1920 x 1080) at 23.976p/29.97p
+HDV (1440 x 1080)
+HD (1280 x 720)
+SD (640 x 480)
+Recording Limit	Up to 29 Minutes, 59 Seconds for Full HD (1920 x 1080)
+Video Encoding	NTSC
+ISO Sensitivity	Auto: 100 to 12800
+Audio Recording	Built-In Microphone (Stereo)
+External Microphone Input
+Audio File Format	AC3, Dolby Digital 2ch, Linear PCM
+Focus
+Focus Type	Auto and Manual Focus
+Focus Mode	Automatic (A), Continuous-Servo AF (C), Single-Servo AF (S)
+Autofocus Points	Phase Detection: 79 (15 Cross-Type)
+Autofocus Sensitivity	-2 to +18 EV
+Viewfinder and Monitor
+Viewfinder Type	Electronic
+Viewfinder Size	0.39"
+Viewfinder Resolution	1,440,000 Dot
+Viewfinder Eye Point	26.5 mm
+Viewfinder Coverage	100%
+Viewfinder Magnification	Approx. 0.88x
+Diopter Adjustment	-4 to +3
+Monitor Size	2.7"
+Monitor Resolution	460,800 Dot
+Monitor Type	Tilting LCD
+Flash
+Built-In Flash	Yes
+Flash Modes	Auto, Fill Flash, Hi-Speed Sync, Off, Rear Sync, Red-Eye Reduction, Slow Sync, Wireless
+Maximum Sync Speed	1/160 Second
+Flash Compensation	-3 to +3 EV (1/3, 1/2 EV Steps)
+External Flash Connection	Hot Shoe
+Interface
+Memory Card Slot	Single Slot: SD/SDHC/SDXC/Memory Stick Duo Hybrid (UHS-I)
+Connectivity	3.5mm Microphone, Multi-Terminal Interface, USB Micro-B (USB 2.0)
+Wireless	None
+GPS	No
+Physical
+Battery	1 x NP-FM500H Rechargeable Lithium-Ion, 7.2 VDC, 1650 mAh
+Dimensions (W x H x D)	5.6 x 4.1 x 3.3" / 142.6 x 104.2 x 82.8 mm
+Weight	1.53 lb / 696 g (Body Only)
+Packaging Info
+Package Weight	2.54 lb
+Box Dimensions (LxWxH)	7.7 x 6.8 x 6.3"

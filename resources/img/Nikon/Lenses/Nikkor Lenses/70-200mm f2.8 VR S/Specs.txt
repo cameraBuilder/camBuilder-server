@@ -1,0 +1,46 @@
+Mount TypeNikon Z Mount
+Focal Length Range70 - 200mm
+Zoom Ratio2.9x
+Maximum Aperturef/ 2.8
+Minimum Aperturef/ 22
+FormatFX
+Maximum Angle of View (DX-format)22°50′
+Minimum Angle of View (DX-format)8°
+Maximum Angle of View (FX-format)34°20′
+Minimum Angle of View (FX-format)12°20′
+Maximum Reproduction Ratio0.2x
+Lens Elements21
+Lens Groups18
+Compatible Format(s)FX
+DX
+VR (Vibration Reduction) Image StabilizationYes
+Lens shift using voice coil motors (VCMs)
+Diaphragm Blades9
+Rounded diaphragm opening
+Distance InformationYes
+ARNEO CoatYes
+Nano Crystal CoatYes
+ED Glass Elements6
+Fluorite Elements1
+SR (Short-Wavelength Refractive) Elements1
+Aspherical Elements2
+Fluorine CoatYes
+Super Integrated CoatingYes
+AutofocusYes
+AF ActuatorSTM (stepping motor)
+Internal FocusingYes
+Minimum Focus Distance1.64 ft. (0.50m.) at 70mm zoom position
+2.07 ft. (0.63m.) at 85mm zoom position
+2.23 ft. (0.68m.) at 105mm zoom position
+2.62 ft. (0.80m.) at 135mm zoom position
+3.28 ft. (1.0m.) at 200mm zoom position
+Focus ModeAuto/Manual
+Filter Size77mm
+Accepts Filter TypeScrew-in
+Approx. Dimensions (Diameter x Length)3.6 in. (89 mm)  x  8.7 in. (220 mm)
+Distance from camera lens mount flange
+Based on CIPA guidelines
+Approx. Weight48 oz. (1,360 g)
+Without the tripod collar
+Based on CIPA guidelines
+Lens TypeZoom

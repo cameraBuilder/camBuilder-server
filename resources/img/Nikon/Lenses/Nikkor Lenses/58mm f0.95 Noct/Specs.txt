@@ -1,0 +1,30 @@
+Mount TypeNikon Z Mount
+Focal Length58mm
+Maximum Aperturef/ 0.95
+Minimum Aperturef/ 16
+FormatFX
+Maximum Angle of View (DX-format)27°20’
+Maximum Angle of View (FX-format)40°50′
+Maximum Reproduction Ratio0.194x
+Lens Elements17
+Lens Groups10
+Compatible Format(s)FX
+DX
+Diaphragm Blades11
+Distance InformationYes
+ARNEO CoatYes
+Nano Crystal CoatYes
+ED Glass Elements4
+Aspherical Elements3
+Fluorine CoatYes
+Super Integrated CoatingYes
+Minimum Focus Distance1.64 ft. (0.5m.) from focal plane at all zoom positions
+Focus ModeManual
+Filter Size82mm
+Accepts Filter TypeScrew-in
+Approx. Dimensions (Diameter x Length)4.01 in. (102 mm)  x  6.02 in. (153 mm)
+Distance from camera lens mount flange
+Based on CIPA guidelines
+Approx. Weight70.6 oz. (2,000 g)
+Based on CIPA guidelines
+Lens TypeManual Focus

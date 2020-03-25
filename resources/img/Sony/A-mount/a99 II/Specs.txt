@@ -1,0 +1,83 @@
+Lens Mount	Sony A
+Camera Format	Full-Frame (1x Crop Factor)
+Pixels	Actual: 43.6 Megapixel
+Effective: 42.4 Megapixel
+Maximum Resolution	7952 x 5304
+Aspect Ratio	3:2, 16:9
+Sensor Type	CMOS
+Sensor Size	35.9 x 24 mm
+Image File Format	JPEG, Raw
+Bit Depth	14-Bit
+Image Stabilization	Sensor-Shift, 5-Axis
+Exposure Control
+ISO Sensitivity	Auto, 100 to 25600 (Extended: 50 to 102400)
+Shutter Speed	Electronic Front Curtain Shutter
+1/8000 to 30 Seconds
+Bulb Mode
+Metering Method	Average, Center-Weighted Average, Highlight Weighted, Multi-Zone, Spot
+Exposure Modes	Aperture Priority, Auto, Manual, Program, Shutter Priority
+Exposure Compensation	-5 to +5 EV (1/3, 1/2 EV Steps)
+Metering Range	-2 to 17 EV
+White Balance	Auto, Cloudy, Color Temperature, Color Temperature Filter, Custom, Daylight, Flash, Fluorescent (Cool White), Fluorescent (Day White), Fluorescent (Daylight), Fluorescent (Warm White), Incandescent, Shade, Underwater
+Continuous Shooting	Up to 12 fps at 42 MP
+Self-Timer	2/5/10-Second Delay
+Video
+Recording Modes	XAVC S
+UHD 4K (3840 x 2160) at 23.976p/25p/29.97p [60 to 100 Mb/s]
+Full HD (1920 x 1080) at 100p/119.88p [60 to 100 Mb/s]
+Full HD (1920 x 1080) at 23.976p/25p/29.97p/50p/59.94p [50 Mb/s]
+AVCHD
+Full HD (1920 x 1080) at 50p/59.94p [28 Mb/s]
+Full HD (1920 x 1080) at 23.976p/25p/50i/59.94i [17 to 24 Mb/s]
+MP4
+Full HD (1920 x 1080) at 50p/59.94p [28 Mb/s]
+Full HD (1920 x 1080) at 25p/29.97p [16 Mb/s]
+HD (1280 x 720) at 25p/29.97p [6 Mb/s]
+External Recording Modes	4:2:2 8-Bit
+UHD 4K (3840 x 2160) at 24.00p/25p/29.97p
+Full HD (1920 x 1080) at 24.00p/50i/50p/59.94i/59.94p
+Video Encoding	NTSC/PAL
+ISO Sensitivity	Auto: 100 to 6400
+Manual: 100 to 25600
+Audio Recording	Built-In Microphone (Stereo)
+External Microphone Input
+Audio File Format	AAC, Dolby Digital 2ch, Linear PCM (Stereo)
+Focus
+Focus Type	Auto and Manual Focus
+Focus Mode	Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)
+Autofocus Points	Phase Detection: 79 (15 Cross-Type)
+Autofocus Sensitivity	-4 to +18 EV
+Viewfinder and Monitor
+Viewfinder Type	Electronic
+Viewfinder Size	0.51"
+Viewfinder Resolution	2,359,296 Dot
+Viewfinder Eye Point	22.9 mm
+Viewfinder Coverage	100%
+Viewfinder Magnification	Approx. 0.78x
+Diopter Adjustment	-4 to +3
+Monitor Size	3"
+Monitor Resolution	1,228,800 Dot
+Monitor Type	180° Tilting LCD
+Flash
+Built-In Flash	No
+Flash Modes	Auto, Hi-Speed Sync, Off, Red-Eye Reduction, Slow Sync, Wireless
+Maximum Sync Speed	1/250 Second
+Flash Compensation	-3 to +3 EV (1/3, 1/2 EV Steps)
+Dedicated Flash System	P-TTL
+External Flash Connection	Hot Shoe, Proprietary
+Interface
+Memory Card Slot	Slot 1: SD/SDHC/SDXC (UHS-II)
+Slot 2: SD/SDHC/SDXC/Memory Stick Duo Hybrid (UHS-I)
+Connectivity	3.5mm Headphone, 3.5mm Microphone, HDMI D (Micro), Multi-Terminal Interface, Wired Remote Port, USB Micro-B (USB 2.0)
+Wireless	Wi-Fi
+Bluetooth
+GPS	No
+Environmental
+Operating Temperature	32 to 104°F / 0 to 40°C
+Physical
+Battery	1 x NP-FM500H Rechargeable Lithium-Ion, 7.2 VDC, 1600 mAh
+Dimensions (W x H x D)	5.6 x 4.1 x 3" / 142.6 x 104.2 x 76.1 mm
+Weight	1.87 lb / 849 g (Body with Battery and Memory)
+Packaging Info
+Package Weight	3.3 lb
+Box Dimensions (LxWxH)	7.7 x 6.9 x 6.2"

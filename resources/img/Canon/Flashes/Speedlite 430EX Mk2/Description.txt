@@ -1,0 +1,36 @@
+Mount	Shoe
+Type	Shoe mount
+Guide No.	141.08' / 43 m ISO 100 at 105 mm Position
+Guide No.	141' (43 m) @ 105mm
+Angle of Coverage	84° (24mm in 35mm format) to 23.3° (105mm)
+114° (14mm) with included wideangle adapter
+Angle of Coverage	84° - 23.3°
+Wide-Angle Adapter: 114°
+Vari-Power	Yes, full power to 1/64th (in 1/3 stop increments)
+Vari-Power	1/1 to 1/64
+TTL Dedication	Yes (E-TTL II with appropriate cameras)
+Bounce Head	0 to +90°
+Bounce Head	Yes
+Swivel Head	Yes
+Swivel Head	270°
+Coverage	14 - 105 mm (Full Frame)
+Zoom Head	24-105mm (flash head senses focal length, sensor size & adjusts accordingly), plus built-in 14mm panel
+Off Camera Terminal	No
+Distance Range	2.30 to 79.72' (0.7 to 24.3 m) at f/1.4
+Recycle Time	3 Seconds (based on alkaline batteries & full power)
+2 Seconds (based on NiMH batteries & full power)
+Zoom Head	Full Frame: 24 - 105 mm
+Power Source	Four AA 1.5V batteries
+Off-Camera Terminal	None
+Recycle Time	Approximately 0.1 to 3.7 Seconds
+Dimensions	2.8 x 4.8 x 4" (72 x 122 x 101mm) WxHxD
+Weight	11.6 oz (330g) [without batteries]
+Flash-Ready Indicator	Yes
+Compensation	-3 EV to +3 EV (in 1/3 and 1/2 EV steps)
+Wireless Operation	Method: Optical Pulse
+Distance: Up to 39.37' / 12 m
+Wireless Channels	4
+Wireless Groups	3
+Power Source	4 x AA Alkaline, Lithium, Rechargeable NiMH Batteries
+Dimensions (W x H x D)	2.8 x 4.8 x 4.0" / 72.0 x 122.0 x 101.0 mm
+Weight	11.29 oz / 320 g
