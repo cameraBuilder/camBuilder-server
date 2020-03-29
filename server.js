@@ -11,19 +11,14 @@ const key = fs.readFileSync('./key.pem');
 const cert = fs.readFileSync('./cert.pem');
 var response    = require('./app/models/response');
 
-
-
- 
 // get our request parameters
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false })); // app to send in  form encoded not a text file
+app.use(bodyParser.json()); // app to send the reesponse in form of JSON
 // log to console
 app.use(morgan('dev'));
 // Use the passport package in our application
 app.use(passport.initialize());
 
-
- 
 // demo Route
 app.get('/', function(req, res) {
  return res.status(200).json(new response(200, null, "Hello cam builders").JSON)

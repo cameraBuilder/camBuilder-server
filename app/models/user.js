@@ -1,56 +1,47 @@
-var mongoose = require('mongoose');
-var Schema = mongoose.Schema;
-var bcrypt = require('bcrypt');
+// var bcrypt = require('bcrypt');
+// const Sequelize = require('sequelize');
+
+// var User = Sequelize.define("user", {
+//     email: {
+//       type: Sequelize.STRING,
+//       unique: true 
+//     },
+//     password: {
+//       type: Sequelize.STRING,
+//     },
+//     username: {
+//         type: Sequelize.STRING,
+//       },
+//   });
+
+//   User.beforeCreate(async (user, options) => {
+//     var user = this;
+//     return bcrypt.hash(user.password, 10)
+//         .then(hash => {
+//             user.password = hash;
+//         })
+//         .catch(err => { 
+//             throw new Error(); 
+//         });
+// });
+
+//   // create some helper functions to work on the database
+//   User.getAllUsers = async () => {
+//     return await User.findAll();
+//   };
+//   User.getUser = async obj => {
+//     return await User.findOne({
+//     where: obj,
+//   });
+//   };
  
-// set up a mongoose model
-var UserSchema = new Schema({
-    email: {
-        type: String,
-        unique: true,
-        required: true
-    },
-  username: {
-        type: String,
-        unique: false,
-        required: true
-    },
-  password: {
-        type: String,
-        required: true
-    },
-    type: {
-        type: Number,
-        required: false
-    }
-});
+//   User.comparePassword = function (passw, cb) {
+//     bcrypt.compare(passw, this.password, function (err, isMatch) {
+//         if (err) {
+//             return cb(err);
+//         }
+//         cb(null, isMatch);
+//     });
+// };
  
-UserSchema.pre('save', function (next) {
-    var user = this;
-    if (this.isModified('password') || this.isNew) {
-        bcrypt.genSalt(10, function (err, salt) {
-            if (err) {
-                return next(err);
-            }
-            bcrypt.hash(user.password, salt, function (err, hash) {
-                if (err) {
-                    return next(err);
-                }
-                user.password = hash;
-                next();
-            });
-        });
-    } else {
-        return next();
-    }
-});
- 
-UserSchema.methods.comparePassword = function (passw, cb) {
-    bcrypt.compare(passw, this.password, function (err, isMatch) {
-        if (err) {
-            return cb(err);
-        }
-        cb(null, isMatch);
-    });
-};
- 
-module.exports = mongoose.model('User', UserSchema);
+// module.exports = User;
