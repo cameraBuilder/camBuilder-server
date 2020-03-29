@@ -3,8 +3,16 @@ var bcrypt = require('bcrypt');
 
 const sequelize = new Sequelize('FM8OApCbgk', 'FM8OApCbgk', 'IDA1qIvHMR', {
   host: 'remotemysql.com',
-  dialect:  'mysql'
-})
+  dialect:  'mysql',
+  
+}, {
+  define: {
+    attributes: {
+      exclude: ['createdAt', 'updatedAt']
+    }
+  }
+}
+)
 
 
 var User = sequelize.define("user", {
@@ -18,31 +26,26 @@ var User = sequelize.define("user", {
     username: {
         type: Sequelize.STRING,
       }
-  });
+  },{ timestamps: false });
 
-  User.beforeCreate(async (user, options) => {
+  User.removeAttribute('id')
 
-    var user = this;
-    bcrypt.genSalt(10, function (err, salt) {
-      if (err) {
-          console.log(err);
-      }
-      bcrypt.hash(user.password, salt, function (err, hash) {
-          if (err) {
-            console.log(err);
-          }
-          user.password = hash;
-      });
-        
-    });
+  User.beforeCreate( (user, options) => {
+    return bcrypt.hash(user.password, 10)
+        .then(hash => {
+            user.password = hash;
+        })
+        .catch(err => { 
+            throw new Error(); 
+        });
   });
 
   // create some helper functions to work on the database
-  User.getAllUsers =  () => {
-    return  User.findAll();
+  User.getAllUsers = async () => {
+    return  await User.findAll();
   };
 
-  User.getUser =  obj => {
+  User.getUser =  async obj => {
     return  User.findOne({
     where: obj
   });
