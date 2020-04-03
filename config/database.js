@@ -51,9 +51,10 @@ var User = sequelize.define("user", {
   });
   };
  
-  User.comparePassword = function (passw, cb) {
-    bcrypt.compare(passw, this.password, function (err, isMatch) {
+  User.comparePassword = function (passw, hash,cb) {
+    bcrypt.compare(passw, hash, function (err, isMatch) {
         if (err) {
+          console.log("compare password");
             return cb(err);
         }
         cb(null, isMatch);
@@ -61,4 +62,5 @@ var User = sequelize.define("user", {
 };
  
 sequelize.User = User
+sequelize.secret = "thecode007"
 module.exports = sequelize

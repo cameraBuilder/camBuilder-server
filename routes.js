@@ -15,8 +15,8 @@ var apiRoutes = express.Router();
 
 
 apiRoutes.post('/Register', function(req, res) {
-   
-    // checks if at least one field is empty
+  
+  // checks if at least one field is empty
   if (!req.body.username || !req.body.password || !req.body.email) {
     return res.status(400).json(new response(400, null, "All fields are required").JSON)
   }
@@ -55,14 +55,15 @@ apiRoutes.post('/login', function(req, res) {
         return res.status(400).json(new response(400, null, "Invalid Email format").JSON)
       }
     
-      let user =  sequelize.User.getUser({ email:req.body.email }).then(promiseData =>{
+      sequelize.User.getUser({ email:req.body.email }).then(promiseData =>{
         if(!promiseData) {
-          return res.status(401).json(new response(401, null, 'Authentication failed. Wrong Email or Password.').JSON)
+          return res.status(401).json(new response(401, null, 'Email not registered').JSON)
         }
-        sequelize.User.comparePassword(req.body.password, function (err, isMatch) {
+        sequelize.User.comparePassword(req.body.password, promiseData.password,function (err, isMatch) {
+          console.log("ErrorLog: " + err)
             if (isMatch && !err) {
-             var token = jwt.encode(user, config.secret);
-             return res.status(200).json(new response(200, {token: 'bearer ' + token, username:user.username, email:user.email}, "Logedd In!").JSON)
+             var token = jwt.encode(promiseData, sequelize.secret);
+             return res.status(200).json(new response(200, {token: 'bearer ' + token, username:promiseData.username, email:user.email}, "Logedd In!").JSON)
             } 
               return res.status(401).json(new response(401, null, 'Authentication failed. Wrong Email or Password.').JSON)
           })
@@ -74,12 +75,12 @@ apiRoutes.post('/login', function(req, res) {
 apiRoutes.post('/getUserProfile', passport.authenticate('jwt', { session: false}), function(req, res) {
     var token = getToken(req.headers);
     if (token) {
-      var decoded = jwt.decode(token, config.secret);
+      var decoded = jwt.decode(token, sequelize.secret);
       sequelize.User.getUser({ email:decoded.email }).then(promiseData =>{
         if (!promiseData) {
           return res.status(401).json(new response(401, null, "Token Expired").JSON)
         } else {
-          return res.status(200).json(new response(200, {user:{email:user.email, username:user.username}}, "User found!").JSON)
+          return res.status(200).json(new response(200, {user:{email:promiseData.email, username:promiseData.username}}, "User found!").JSON)
         }
       })
     }
