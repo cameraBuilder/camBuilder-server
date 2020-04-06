@@ -13,7 +13,8 @@ var response    = require('./app/models/response');
 
 // get our request parameters
 app.use(bodyParser.urlencoded({ extended: false })); // app to send in  form encoded not a text file
-app.use(bodyParser.json()); // app to send the reesponse in form of JSON
+app.use(bodyParser.json()); // app to send the response in form of JSON
+app.use(express.static(__dirname + '/resources/img'));
 // log to console
 app.use(morgan('dev'));
 // Use the passport package in our application
@@ -29,3 +30,20 @@ app.use('/api', router);
 const server = https.createServer({key: key, cert: cert }, app);
 // Start the server
 server.listen(port);
+
+var os = require('os');
+var ifaces = os.networkInterfaces();
+
+Object.keys(ifaces).forEach(function (ifname) {
+  var alias = 0;
+
+  ifaces[ifname].forEach(function (iface) {
+    if ('IPv4' !== iface.family || iface.internal !== false) {
+      return;
+    }
+    if(ifname.includes("Ethernet")){
+      router.ip = iface.address;
+    }
+    ++alias;
+  });
+});

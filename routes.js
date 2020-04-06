@@ -44,9 +44,6 @@ apiRoutes.post('/Register', function(req, res) {
   })
 });
 
-
-
-
 apiRoutes.post('/login', function(req, res) {
     if (!req.body.password || !req.body.email) {
         return res.status(400).json(new response(400, null, "All fields are required").JSON)
@@ -63,7 +60,7 @@ apiRoutes.post('/login', function(req, res) {
           console.log("ErrorLog: " + err)
             if (isMatch && !err) {
              var token = jwt.encode(promiseData, sequelize.secret);
-             return res.status(200).json(new response(200, {token: 'bearer ' + token, username:promiseData.username, email:user.email}, "Logedd In!").JSON)
+             return res.status(200).json(new response(200, {token: 'bearer ' + token, username:promiseData.username, email:promiseData.email}, "Logedd In!").JSON)
             } 
               return res.status(401).json(new response(401, null, 'Authentication failed. Wrong Email or Password.').JSON)
           })
@@ -71,6 +68,53 @@ apiRoutes.post('/login', function(req, res) {
      })
 
 
+apiRoutes.get('/cameras', function(req, res) {
+  sequelize.Camera.getAllCams().then(data => {
+    return res.status(200).json(new response(200, data, "All Cams here!").JSON)
+  })
+})
+
+apiRoutes.get('/lenses', function(req, res) {
+  sequelize.Lens.getAllLenses().then(data => {
+    return res.status(200).json(new response(200, data, "All Lenses here!").JSON)
+  })
+})
+
+apiRoutes.get('/lens/:id', function(req, res) {
+  sequelize.Lens.getLens({id:req.params.id}).then(data => {
+    return res.status(200).json(new response(200, data, "Lens here!").JSON)
+  })
+})
+
+apiRoutes.get('/flashes', function(req, res) {
+  sequelize.Flash.getAllFlashes().then(data => {
+    return res.status(200).json(new response(200, data, "All Flashes here!").JSON)
+  })
+})
+
+apiRoutes.get('/flash/:id', function(req, res) {
+  sequelize.Flash.getFlash({id:req.params.id}).then(data => {
+    return res.status(200).json(new response(200, data, "All Flashes here!").JSON)
+  })
+})
+
+apiRoutes.get('/camera/:id', function(req, res) {
+  sequelize.Camera.getCam({id:req.params.id}).then(data => {
+    return res.status(200).json(new response(200, data, "Your Cam is here!").JSON)
+  })
+})
+
+apiRoutes.get('/adapters', function(req, res) {
+  sequelize.Adapter.getAllAdapters().then(data => {
+    return res.status(200).json(new response(200, data, "All Adapters here!").JSON)
+  })
+})
+
+apiRoutes.get('/adapter/:id', function(req, res) {
+  sequelize.Adapter.getAdapter({id:req.params.id}).then(data => {
+    return res.status(200).json(new response(200, data, "Adapter here!").JSON)
+  })
+})
 
 apiRoutes.post('/getUserProfile', passport.authenticate('jwt', { session: false}), function(req, res) {
     var token = getToken(req.headers);
@@ -85,7 +129,6 @@ apiRoutes.post('/getUserProfile', passport.authenticate('jwt', { session: false}
       })
     }
   });
-   
   
   // split header to retrive the token
   getToken = function (headers) {
@@ -101,4 +144,5 @@ apiRoutes.post('/getUserProfile', passport.authenticate('jwt', { session: false}
     }
   };
 
+  apiRoutes.ip = ""
   module.exports = apiRoutes
