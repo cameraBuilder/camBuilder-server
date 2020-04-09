@@ -1,5 +1,5 @@
 const Sequelize = require("sequelize");
-var bcrypt = require('bcrypt');
+var bcrypt = require("bcrypt");
 
 const sequelize = new Sequelize('FM8OApCbgk', 'FM8OApCbgk', 'IDA1qIvHMR', {
   host: 'remotemysql.com',
@@ -66,6 +66,7 @@ var User = sequelize.define("user", {
     }
   },{ timestamps: false });
 
+  
   Camera.belongsTo(Mount,  {foreignKey: 'mountType'});
 
 
@@ -212,11 +213,16 @@ var User = sequelize.define("user", {
       where: obj
     });
   };
+
+  Bag.getBag = async obj => {
+    return  await Bag.findOne({
+      where: obj
+    });
+  };
  
   User.comparePassword = function (passw, hash,cb) {
     bcrypt.compare(passw, hash, function (err, isMatch) {
         if (err) {
-          console.log("compare password");
             return cb(err);
         }
         cb(null, isMatch);

@@ -74,6 +74,12 @@ apiRoutes.get('/cameras', function(req, res) {
   })
 })
 
+apiRoutes.get('/camera/:id', function(req, res) {
+  sequelize.Camera.getCam({id:req.params.id}).then(data => {
+    return res.status(200).json(new response(200, data, "Your Cam is here!").JSON)
+  })
+})
+
 apiRoutes.get('/lenses', function(req, res) {
   sequelize.Lens.getAllLenses().then(data => {
     return res.status(200).json(new response(200, data, "All Lenses here!").JSON)
@@ -98,11 +104,7 @@ apiRoutes.get('/flash/:id', function(req, res) {
   })
 })
 
-apiRoutes.get('/camera/:id', function(req, res) {
-  sequelize.Camera.getCam({id:req.params.id}).then(data => {
-    return res.status(200).json(new response(200, data, "Your Cam is here!").JSON)
-  })
-})
+
 
 apiRoutes.get('/adapters', function(req, res) {
   sequelize.Adapter.getAllAdapters().then(data => {
@@ -110,11 +112,13 @@ apiRoutes.get('/adapters', function(req, res) {
   })
 })
 
+
 apiRoutes.get('/adapter/:id', function(req, res) {
   sequelize.Adapter.getAdapter({id:req.params.id}).then(data => {
     return res.status(200).json(new response(200, data, "Adapter here!").JSON)
   })
 })
+
 
 apiRoutes.post('/getUserProfile', passport.authenticate('jwt', { session: false}), function(req, res) {
     var token = getToken(req.headers);
@@ -125,6 +129,29 @@ apiRoutes.post('/getUserProfile', passport.authenticate('jwt', { session: false}
           return res.status(401).json(new response(401, null, "Token Expired").JSON)
         } else {
           return res.status(200).json(new response(200, {user:{email:promiseData.email, username:promiseData.username}}, "User found!").JSON)
+        }
+      })
+    }
+  });
+
+
+  apiRoutes.post('/addToBag', passport.authenticate('jwt', { session: false}), function(req, res) {
+    var token = getToken(req.headers);
+    if (token) {
+      var decoded = jwt.decode(token, sequelize.secret);
+      sequelize.User.getUser({ email:decoded.email }).then(promiseData =>{
+        if (!promiseData) {
+          return res.status(401).json(new response(401, null, "Token Expired").JSON)
+        } else {
+          if (promiseData.bagId && promiseData.bagId != 0) {
+            const bag = sequelize.Bag.getBag({id:promiseData.bagId})
+            console.log(bag)
+          }
+          else{
+            sequelize.Bag.create({item:""})
+            console.log("Bag created")
+          }
+          return res.status(200).json(new response(200, null, "Item Added").JSON)
         }
       })
     }

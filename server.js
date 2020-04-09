@@ -30,20 +30,3 @@ app.use('/api', router);
 const server = https.createServer({key: key, cert: cert }, app);
 // Start the server
 server.listen(port);
-
-var os = require('os');
-var ifaces = os.networkInterfaces();
-
-Object.keys(ifaces).forEach(function (ifname) {
-  var alias = 0;
-
-  ifaces[ifname].forEach(function (iface) {
-    if ('IPv4' !== iface.family || iface.internal !== false) {
-      return;
-    }
-    if(ifname.includes("Ethernet")){
-      router.ip = iface.address;
-    }
-    ++alias;
-  });
-});
