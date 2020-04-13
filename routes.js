@@ -60,7 +60,7 @@ apiRoutes.post('/login', function(req, res) {
           console.log("ErrorLog: " + err)
             if (isMatch && !err) {
              var token = jwt.encode(promiseData, sequelize.secret);
-             return res.status(200).json(new response(200, {token: 'bearer ' + token, username:promiseData.username, email:promiseData.email}, "Logedd In!").JSON)
+             return res.status(200).json(new response(200, {token: 'bearer ' + token, id:promiseData.id, username:promiseData.username, email:promiseData.email}, "Logedd In!").JSON)
             } 
               return res.status(401).json(new response(401, null, 'Authentication failed. Wrong Email or Password.').JSON)
           })
@@ -156,6 +156,104 @@ apiRoutes.post('/getUserProfile', passport.authenticate('jwt', { session: false}
       })
     }
   });
+
+
+apiRoutes.post('/createKit', passport.authenticate('jwt', { session: false}), function(req, res) {
+    var token = getToken(req.headers);
+    if (token) {
+      var decoded = jwt.decode(token, sequelize.secret);
+      sequelize.User.getUser({ email:decoded.email }).then(promiseData =>{
+        if (!promiseData) {
+          return res.status(401).json(new response(401, null, "Token Expired").JSON)
+        } else {
+          console.log(req.body.kit)
+          var jsob = JSON.parse(req.body.kit)
+
+          sequelize.kit.create(jsob).then(function (kit) {
+            if (kit) {
+              return res.status(201).json(new response(201, null, "Saved !").JSON);
+            } else {
+              return res.status(500).json(new response(500, null, "Internal Server Error").JSON);
+            }
+        }).catch(function(err) {
+          console.log('Error inserting user:');
+          console.log(err);
+        });
+        }
+      })
+    }
+  });
+
+  apiRoutes.post('/findUserKits', passport.authenticate('jwt', { session: false}), function(req, res) {
+    var token = getToken(req.headers);
+    if (token) {
+      var decoded = jwt.decode(token, sequelize.secret);
+      sequelize.User.getUser({ email:decoded.email }).then(promiseData =>{
+        if (!promiseData) {
+          return res.status(401).json(new response(401, null, "Token Expired").JSON)
+        } else {
+          sequelize.kit.getAllMatchedKit({
+            userId:req.body.id
+          }).then(kits => {
+            if(!kits) {
+              return res.status(500).json(new response(500, null, "No kits found").JSON)
+            }
+            else{
+              (async () => {
+                var allKits = [];
+                for(var k = 0;k < kits.length; k++){
+                  var kitItems = [];
+                  let items = kits[k].items.split(",");
+                  for(var i = 0; i < items.length; i++) {
+                    let type = items[i].charAt(0);
+                    let id = items[i].substring(1, items[i].length)
+                    let tag = ""
+                    let product = {}
+                    switch(type) {
+                      case "c":
+                        tag = "camera"
+                        product =  await sequelize.Camera.getCam({id: id});
+                        break;
+                        case "f":
+                          tag = "flash"
+                          product =  await sequelize.Flash.getFlash({id: id});
+                          break;
+                       case "a":
+                        tag = "adapter"
+                         product =  await sequelize.Adapter.getAdapter({id: id});
+                         break;
+  
+                      case "l":
+                        tag = "lens"
+                        product = await sequelize.Lens.getLens({id: id});
+                        break;
+                    }
+                  kitItems.push({tag:tag,product:JSON.stringify(product)})
+                  }
+                  allKits.push({id:kits[k].id, kitItems:kitItems})
+                }
+                return res.status(200).json(new response(200, allKits, "Kits found").JSON)
+              })()
+            }
+          })
+          }
+  })}});
+
+    apiRoutes.post('/findCompatibleAdapters', passport.authenticate('jwt', { session: false}), function(req, res) {
+      var token = getToken(req.headers);
+      if (token) {
+        var decoded = jwt.decode(token, sequelize.secret);
+        sequelize.User.getUser({ email:decoded.email }).then(promiseData =>{
+          if (!promiseData) {
+            return res.status(401).json(new response(401, null, "Token Expired").JSON)
+          } else {
+            sequelize.Adapter.getAllMatchedAdapter({compatibleCameraMount: req.body.cameraMount, compatibleLenseMount:req.body.lensMount}).then(adapters =>{
+              return res.status(200).json(new response(200, adapters, "Matched Adpters").JSON)
+            });}
+})}});
+
+
+
   
   // split header to retrive the token
   getToken = function (headers) {

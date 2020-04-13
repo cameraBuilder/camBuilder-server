@@ -4,8 +4,8 @@ var bcrypt = require("bcrypt");
 const sequelize = new Sequelize('FM8OApCbgk', 'FM8OApCbgk', 'IDA1qIvHMR', {
   host: 'remotemysql.com',
   dialect:  'mysql',
-  
-}, {
+}, 
+{
   define: {
     attributes: {
       exclude: ['createdAt', 'updatedAt']
@@ -20,26 +20,29 @@ var User = sequelize.define("user", {
     autoIncrement: true,
     primaryKey: true
 },
-    email: {
-      type: Sequelize.STRING(100),
-      unique: true 
-    },
-    password: {
-      type: Sequelize.STRING,
-    },
-    username: {
-        type: Sequelize.STRING(100),
-      }
-  },{ timestamps: false });
+    
+email: {
+  type: Sequelize.STRING(100),
+  unique: true 
+},
+    
+password: {
+  type: Sequelize.STRING,
+    
+},
+    
+username: 
+{
+  type: Sequelize.STRING(100),
+}
+},{ timestamps: false });
 
   
-
-  var Mount = sequelize.define("mount", {
-    name: {
-      type: Sequelize.STRING(60),
-      primaryKey: true
-    }
-    
+var Mount = sequelize.define("mount", {
+  name: {
+    type: Sequelize.STRING(60),
+    primaryKey: true
+  }
   },{ timestamps: false });
 
 
@@ -68,7 +71,6 @@ var User = sequelize.define("user", {
 
   
   Camera.belongsTo(Mount,  {foreignKey: 'mountType'});
-
 
   var Lense = sequelize.define("lense", {
     name: {
@@ -147,7 +149,6 @@ var User = sequelize.define("user", {
     isOver:{
       type: Sequelize.BOOLEAN
     }
-    
   },{ timestamps: false });
 
   User.belongsTo(Bag);
@@ -193,13 +194,20 @@ var User = sequelize.define("user", {
   };
 
   Adapter.getAdapter = async obj => {
-    return  Adapter.findOne({
+    return  await Adapter.findOne({
       where: obj
     });
   };
 
+  Adapter.getAllMatchedAdapter = async obj => {
+    return  await Adapter.findAll({
+      where: obj
+    });
+  };
+  
+
   User.getUser =  async obj => {
-    return  User.findOne({
+    return await  User.findOne({
     where: obj
   });
   };
@@ -216,6 +224,12 @@ var User = sequelize.define("user", {
 
   Bag.getBag = async obj => {
     return  await Bag.findOne({
+      where: obj
+    });
+  };
+
+  kit.getAllMatchedKit = async obj => {
+    return await kit.findAll({
       where: obj
     });
   };
