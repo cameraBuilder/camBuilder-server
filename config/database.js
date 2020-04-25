@@ -233,6 +233,12 @@ var Mount = sequelize.define("mount", {
       where: obj
     });
   };
+
+  kit.getKit = async obj => {
+    return await kit.findOne({
+      where: obj
+    });
+  };
  
   User.comparePassword = function (passw, hash,cb) {
     bcrypt.compare(passw, hash, function (err, isMatch) {

@@ -166,19 +166,34 @@ apiRoutes.post('/createKit', passport.authenticate('jwt', { session: false}), fu
         if (!promiseData) {
           return res.status(401).json(new response(401, null, "Token Expired").JSON)
         } else {
-          console.log(req.body.kit)
           var jsob = JSON.parse(req.body.kit)
 
-          sequelize.kit.create(jsob).then(function (kit) {
-            if (kit) {
-              return res.status(201).json(new response(201, null, "Saved !").JSON);
-            } else {
-              return res.status(500).json(new response(500, null, "Internal Server Error").JSON);
-            }
-        }).catch(function(err) {
-          console.log('Error inserting user:');
-          console.log(err);
-        });
+          if(jsob.id && jsob.id > 0) {
+            sequelize.kit.getKit({id:jsob.id}).then(currentKit =>{
+              if (currentKit) {
+                currentKit.update({
+                  items: jsob.items
+                }).then(src =>{
+                  return res.status(201).json(new response(200, null, "Updated !").JSON);
+                })
+              }
+              else{
+                return res.status(500).json(new response(500, null, "Kit not found !").JSON);
+              }
+            })
+          }
+          else {
+            sequelize.kit.create(jsob).then(function (kit) {
+              if (kit) {
+                return res.status(201).json(new response(201, null, "Saved !").JSON);
+              } else {
+                return res.status(500).json(new response(500, null, "Internal Server Error").JSON);
+              }
+          }).catch(function(err) {
+            console.log('Error inserting user:');
+            console.log(err);
+          });
+          }
         }
       })
     }
